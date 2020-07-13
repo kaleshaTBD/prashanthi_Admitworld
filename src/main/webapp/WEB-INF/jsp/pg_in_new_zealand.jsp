@@ -411,7 +411,7 @@ color:#fff !important;
 			<div id="main-content country-usa is-country-page">
 			      <div id="hero-wrapper">
 						<img
-							src="wp-content/uploads/2018/11/new-zealand-gentle-hills-and-summer-storm-in-new-zealand-3840x2160-wide-wallpapers.net_-e1543828337312.jpg"
+							src="wp-content/uploads/2018/11/new-zealand-night-461707-e1543828038705.jpg"
 							alt="Study in USA" class="attachment-full">
 							<div id="hero-title" style="margin-top: -60.5px;">
 								<div class="container">
@@ -624,7 +624,7 @@ color:#fff !important;
 															id="menu1" class="tab-pane fade in active">
 																<p style="padding:15px">We are experts at what we do. Since 2019,with prior experience of 14 years we have
 																	helped 1000s of students (personally). As one of the
-																	leading overseas edu consultants in Hyderabad, the
+																	leading overseas education consultants in Hyderabad, the
 																	collective experience of our team of experts go beyond
 																	a 50 years. Many of us have studied abroad and know
 																	exactly what your requirements will be, what kind of
@@ -910,10 +910,10 @@ color:#fff !important;
 													</div>
 													<div class="et_pb_blurb_container">
 														<h4 class="et_pb_module_header">
-															<span style="color: #fdc735">16+</span>
+															<span style="color: #fdc735">15+</span>
 														</h4>
 														<div class="et_pb_blurb_description">
-															<p>16+ years of experience in placing students
+															<p>15+ years of experience in placing students
 																worldwide</p>
 														</div>
 													</div>
@@ -1035,8 +1035,7 @@ color:#fff !important;
 																	<li><a
 																	href="new_zealanda_scholarship">New Zealand Scholarships</a></li>
 																
-																<li><a
-																	href="glossary_of_terminology">Glossary of Terminology</a></li>
+																
 																
 															</ul>
 														</div>

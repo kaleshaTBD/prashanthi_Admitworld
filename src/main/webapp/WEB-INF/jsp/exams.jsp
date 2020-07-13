@@ -111,7 +111,7 @@
 											countries / universities, tests like <a
 												href="gmat" target="_blank">GMAT</a>,
 											<a href="gre" target="_blank">GRE</a>,
-											<a href="sat" target="_blank">SAT</a>,
+											<a href="sat1" target="_blank">SAT</a>,
 											<a href="act" target="_blank">ACT</a>
 											may be required for specific programs or universities, and are
 											more popular amongst students who are planning to study in the

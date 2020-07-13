@@ -948,8 +948,8 @@
 													                    <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseseven" aria-expanded="false"
 													                      aria-controls="collapseseven">
 													                        <i class="more-less glyphicon glyphicon-plus"></i>
-													                      Admitworld TOEFL iBT
-																Coaching in Mumbai
+													                      Admitworld's TOEFL iBT
+																Coaching in Hyderabad
 													                    </a>
 													                </h4>
 													            </div>

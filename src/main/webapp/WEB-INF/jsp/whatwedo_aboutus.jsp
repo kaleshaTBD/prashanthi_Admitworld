@@ -3,8 +3,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="ISO-8859-1">
-<title>AdmitWorld Edu Consultants</title>
+<meta charset="UTF-8">
+<title>Admitworld Edu Consultants</title>
+
 <style>
 .bg-white {
 	background-color: #fff;
@@ -131,7 +132,7 @@ $('.panel-group').on('shown.bs.collapse', toggleIcon);
 														<div class="et_pb_text_inner wow slideInRight">
 															<h2 id="everything-that-we-do-is-for-s">Everything
 																that we do is for students and careers</h2>
-															<p>AdmitWorld derives its competency from a panel
+															<p>Admitworld derives its competency from a panel
 																that comprises of study abroad counsellors, career
 																guidance experts and faculty members with
 																many years of experience in their respective fields.</p>
@@ -154,11 +155,11 @@ $('.panel-group').on('shown.bs.collapse', toggleIcon);
 												<div class="et_pb_text_inner">
 													<h2 id="overseas-education-consulting">
 														<span style="color: #ffffff;">OVERSEAS EDUCATION
-															CONSULTING</span>
+															CONSULTANTS</span>
 													</h2>
-													<p>AdmitWorld is one of the trusted overseas edu
-														consultants guiding students wishing to study abroad. AdmitWorld
-														guides right from start to end in the process of studying
+													<p>Admitworld is one of the trusted overseas education
+														consultants guiding students wishing to study abroad.</br>
+														 Admitworld guides right from start to end in the process of studying
 														abroad in:</p>
 												</div>
 											</div>
@@ -189,7 +190,7 @@ $('.panel-group').on('shown.bs.collapse', toggleIcon);
 																			<h6>Study in USA</h6>
 																		</a>
 																	</div> -->
-																<a href="study_usa"> <img
+																<a href="study_in_usa"> <img
 																	src="wp-content/uploads/2018/11/us-flag.jpg"
 																	title="us-flag" class="attachment-full"
 																	style="width: 200px; height: 100px"></a>
@@ -203,20 +204,33 @@ $('.panel-group').on('shown.bs.collapse', toggleIcon);
 
 															
 															</div>
-															<div class="col-md-2 ">
+																<div class="col-md-2">
 																
 																	
 																	
-																	
-																	<a href="study_australia"> <img
-																	src="wp-content/uploads/2018/11/australia-flag.jpg"
-																	title="us-flag" class="attachment-full"
-																	style="width: 200px; height: 100px"></a>
-																<div
-																	style="background-color: #000;; top: 74%; position: absolute; color: #fff; text-align: center; padding: 1px">
-																	<a href="study_australia"
-																		style="padding: 10px 15px; color: #fff; font-size: 18px">Study in Australia</a>
-																</div>
+																	<a href="study_uk"> <img
+																			src="wp-content/uploads/2018/11/uk-flag.jpg"
+																			title="us-flag" class="attachment-full"
+																			style="width: 200px; height: 100px"></a>
+																		<div
+																			style="background-color: #000;; top: 74%; position: absolute; color: #fff; text-align: center; padding: 1px">
+																			<a href="study_uk"
+																				style="padding: 10px 15px; color: #fff; font-size: 18px">Study in UK</a>
+																		</div>
+																
+															</div>
+																<div class="col-md-2">
+																
+													
+																	<a href="study_ireland"> <img
+																			src="wp-content/uploads/2018/11/ireland-flag.jpg"
+																			title="us-flag" class="attachment-full"
+																			style="width: 200px; height: 100px"></a>
+																		<div
+																			style="background-color: #000;; top: 74%; position: absolute; color: #fff; text-align: center; padding: 1px">
+																			<a href="study_ireland"
+																				style="padding: 10px 15px; color: #fff; font-size: 18px">Study in Ireland</a>
+																		</div>
 																
 															</div>
 															<div class="col-md-2">
@@ -232,25 +246,25 @@ $('.panel-group').on('shown.bs.collapse', toggleIcon);
 																</div>
 																
 															</div>
-															<div class="col-md-2">
-																
-																	
-																		 <a href="study_dubai"> <img
-																			src="wp-content/uploads/2018/11/dubai-flag.jpg"
-																			title="us-flag" class="attachment-full"
-																			style="width: 200px; height: 100px"></a>
-																		<div
-																			style="background-color: #000;; top: 74%; position: absolute; color: #fff; text-align: center; padding: 1px">
-																			<a href="study_dubai"
-																				style="padding: 10px 15px; color: #fff; font-size: 18px">Study in Dubai</a>
-																		</div>
-																
-															</div>
 															<div class="col-md-2"></div>
 														</div>
 														
 														<div class="row wow slideInRight" style="margin-top: 15px;">
 															<div class="col-md-2"></div>
+															<div class="col-md-2">	
+																	
+																	
+																	<a href="study_australia"> <img
+																	src="wp-content/uploads/2018/11/australia-flag.jpg"
+																	title="us-flag" class="attachment-full"
+																	style="width: 200px; height: 100px"></a>
+																<div
+																	style="background-color: #000;; top: 74%; position: absolute; color: #fff; text-align: center; padding: 1px">
+																	<a href="study_australia"
+																		style="padding: 10px 15px; color: #fff; font-size: 18px">Study in Australia</a>
+																</div>
+																
+															</div>
 															
 															<div class="col-md-2">
 																
@@ -282,35 +296,23 @@ $('.panel-group').on('shown.bs.collapse', toggleIcon);
 																
 															</div>
 																
-															<div class="col-md-2">
+														<div class="col-md-2">
 																
 																	
-																	
-																	<a href="study_uk"> <img
-																			src="wp-content/uploads/2018/11/uk-flag.jpg"
+																		 <a href="study_dubai"> <img
+																			src="wp-content/uploads/2018/11/dubai-flag.jpg"
 																			title="us-flag" class="attachment-full"
 																			style="width: 200px; height: 100px"></a>
 																		<div
 																			style="background-color: #000;; top: 74%; position: absolute; color: #fff; text-align: center; padding: 1px">
-																			<a href="study_uk"
-																				style="padding: 10px 15px; color: #fff; font-size: 18px">Study in UK</a>
+																			<a href="study_dubai"
+																				style="padding: 10px 15px; color: #fff; font-size: 18px">Study in Dubai</a>
 																		</div>
 																
 															</div>
-															<div class="col-md-2">
-																
-													
-																	<a href="study_ireland"> <img
-																			src="wp-content/uploads/2018/11/ireland-flag.jpg"
-																			title="us-flag" class="attachment-full"
-																			style="width: 200px; height: 100px"></a>
-																		<div
-																			style="background-color: #000;; top: 74%; position: absolute; color: #fff; text-align: center; padding: 1px">
-																			<a href="study_ireland"
-																				style="padding: 10px 15px; color: #fff; font-size: 18px">Study in Ireland</a>
-																		</div>
-																
-															</div>
+														
+														
+														
 															
 															<div class="col-md-2"></div>
 														</div>
@@ -343,7 +345,7 @@ $('.panel-group').on('shown.bs.collapse', toggleIcon);
 														essays, visa guidance, pre-departure briefing and more,
 														our team ensures that students enjoy an experiential
 														process and make the right career choice.</p>
-													<p>AdmitWorld has placed 1000s of students abroad and
+													<p>Admitworld has placed 1000s of students abroad and
 														is continuing strongly</p>
 													
 												</div>
@@ -366,7 +368,7 @@ $('.panel-group').on('shown.bs.collapse', toggleIcon);
 															<span>Courses</span>
 														</h2>
 														<div class="et_pb_blurb_description">
-															<p>Counsellors at AdmitWorld have guided students for
+															<p>Counsellors at Admitworld have guided students for
 																nearly all programs, right from medicals &amp;
 																dentistry, engineering, information technology, law,
 																business management to art &amp; design, fashion,
@@ -458,26 +460,26 @@ $('.panel-group').on('shown.bs.collapse', toggleIcon);
 											</div>
 										</div>
 									</div>
-									<div class="et_pb_row et_pb_row_7">
+									<div class="et_pb_row et_pb_row_7" >
 										<div
 											class="et_pb_column et_pb_column_4_4 et_pb_column_9  et_pb_css_mix_blend_mode_passthrough et-last-child">
 											<div
 												class="et_pb_module et_pb_text et_pb_text_6 et_pb_bg_layout_light  et_pb_text_align_left">
 												<div class="et_pb_text_inner">
-													<h2 id="coaching" style="text-align: center;">
+													<h2 id="coaching" style="text-align: center;margin-top:20px">
 														<strong>Coaching</strong>
 													</h2>
-													<p>&nbsp;</p>
+													
 													<p>
 														Students wishing to study abroad need to appear for
 														standardized tests like <a
-															href="sat1" target="_blank">SAT</a>,
-														<a href="gmat" target="_blank">GMAT</a>,
-														<a href="gre" target="_blank">GRE</a>,
+															href="sat1" target="_blank" style="color:#3971e4">SAT</a>,
+														<a href="gmat" target="_blank" style="color:#3971e4">GMAT</a>,
+														<a href="gre" target="_blank" style="color:#3971e4">GRE</a>,
 														<a href="toefl"
-															target="_blank">TOEFL</a>, <a
-															href="ielts" target="_blank">IELTS</a>,
-														<a href="pte" target="_blank">PTE</a>.
+															target="_blank" style="color:#3971e4">TOEFL</a>, <a
+															href="ielts" target="_blank" style="color:#3971e4">IELTS</a>,
+														<a href="pte" target="_blank" style="color:#3971e4">PTE</a>.
 														Our teaching experts help students gain the required score
 														to make it to their dream Universities abroad.
 													</p>
@@ -554,7 +556,7 @@ $('.panel-group').on('shown.bs.collapse', toggleIcon);
 												<div class="et_pb_text_inner">
 													<h2 id="following-is-the-list-of-activ">Following is
 														the list of activities – a ‘step by step process’ followed
-														by AdmitWorld to provide complete services and satisfaction to
+														by Admitworld to provide complete services and satisfaction to
 														the students:</h2>
 												</div>
 											</div>
@@ -607,7 +609,7 @@ $('.panel-group').on('shown.bs.collapse', toggleIcon);
 											            </div>
 											            <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
 											                <div class="panel-body">
-											                    Students are assisted by the AdmitWorld team member in making a
+											                    Students are assisted by the Admitworld team member in making a
 														final choice in terms of the right course and the right
 														University / College in a specific Country balancing the
 														student’s requirements and the eligibility factor.<br>
@@ -619,7 +621,7 @@ $('.panel-group').on('shown.bs.collapse', toggleIcon);
 														Switzerland for ‘Hospitality and Tourism’, etc.<br>
 														60% of the problem that the students face is the selection
 														of the ‘right mix’. Once this is achieved, admissions are
-														the responsibility of AdmitWorld. Students not only save money in
+														the responsibility of Admitworld. Students not only save money in
 														this process as the applications are only made to specific
 														Institutions (considering the application fees that most
 														Universities charge) but also save valuable time – perhaps
@@ -647,10 +649,10 @@ $('.panel-group').on('shown.bs.collapse', toggleIcon);
 														while making a final admission decision. Each essay / SOP
 														is edited with no limit to the number of iterations.
 														<p></p>
-														<p>Additionally, AdmitWorld also helps with selecting the
+														<p>Additionally, Admitworld also helps with selecting the
 															right referees, discusses the content a referee could
 															write and more.</p>
-														<p>AdmitWorld relishes the work of helping students with
+														<p>Admitworld relishes the work of helping students with
 															their scholarship essays in order to improve the chance
 															of gaining some crucial funding.</p>
 											                </div>
@@ -686,16 +688,16 @@ $('.panel-group').on('shown.bs.collapse', toggleIcon);
 														</p>
 														<p>However, the students are often unaware about the
 															application procedure and the documentation to be
-															submitted. AdmitWorld team member assists all the students with
+															submitted. Admitworld team member assists all the students with
 															the precise documentation that is required to be
-															submitted along with the application forms. AdmitWorld team
+															submitted along with the application forms. Admitworld team
 															keeps regular contact with the Universities / Colleges
 															regarding the status and progress of students’
-															applications. Therefore, AdmitWorld students are relieved of the
+															applications. Therefore, Admitworld students are relieved of the
 															follow-up activity.</p>
-														<p>Student could leverage the expertise of AdmitWorld team
+														<p>Student could leverage the expertise of Admitworld team
 															members to give them ‘the edge’ in this extremely
-															competitive admissions process. AdmitWorld team members will
+															competitive admissions process. Admitworld team members will
 															assist the students edit their ‘essays / statement of
 															purpose’ and provide insights on just the right
 															constituents that make documents unique and personal. It
@@ -704,7 +706,7 @@ $('.panel-group').on('shown.bs.collapse', toggleIcon);
 															(academic and financial), thereby making the
 															documentation all the more significant.</p>
 														<p style="border: 1px solid red; padding: 20px;">
-															AdmitWorld also sends its ‘recommendations’ highlighting
+															Admitworld also sends its ‘recommendations’ highlighting
 															individual students’ strengths, explaining reasons for a
 															student to be granted an admission. Universities in
 															general consider this in their decision. Some
@@ -731,8 +733,8 @@ $('.panel-group').on('shown.bs.collapse', toggleIcon);
 											            </div>
 											            <div id="collapsefive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingfive">
 											                <div class="panel-body">
-											                   AdmitWorld keeps a track of various funding and scholarship
-														opportunities which is shared with the students. AdmitWorld helps
+											                   Admitworld keeps a track of various funding and scholarship
+														opportunities which is shared with the students. Admitworld helps
 														with making the scholarship application and/or editing of
 														scholarship essays.
 														<p></p>
@@ -760,16 +762,16 @@ $('.panel-group').on('shown.bs.collapse', toggleIcon);
 															
 														</p>
 														<p>Once the student has received an I20 or admissions
-															offer letter from the University, AdmitWorld details its
+															offer letter from the University, Admitworld details its
 															students with the visa procedure to be followed in the
 															country and guides them in preparing the various
 															documents required for obtaining a valid student visa.</p>
-														<p>AdmitWorld also counsels the students for their visa
+														<p>Admitworld also counsels the students for their visa
 															interview through mock interview sessions. With regular
 															research on the different visa procedures and not
-															underestimating the reviews of other students, AdmitWorld is in
+															underestimating the reviews of other students, Admitworld is in
 															a better situation to guide the students at all stages.</p>
-														<p>AdmitWorld also assists in the booking of visa
+														<p>Admitworld also assists in the booking of visa
 															appointment, arranging of financial &amp; other
 															documentation, etc. so as to increase the chance of the
 															visa</p>
@@ -793,8 +795,8 @@ $('.panel-group').on('shown.bs.collapse', toggleIcon);
 											                <div class="panel-body">
 											                 
 														<p>&nbsp;</p>
-														<p>AdmitWorld follows a list of nationalized banks offering
-															bank loans at reasonable rates. AdmitWorld assists its students
+														<p>Admitworld follows a list of nationalized banks offering
+															bank loans at reasonable rates. Admitworld assists its students
 															with the entire procedure, starting from application to
 															the required documentation, eligibility criteria and the
 															selection of bank</p>
@@ -817,7 +819,7 @@ $('.panel-group').on('shown.bs.collapse', toggleIcon);
 											                  
 														<p>&nbsp;</p>
 														<p>A question that most parents wish to be answered!</p>
-														<p>AdmitWorld provides detailed information to the students
+														<p>Admitworld provides detailed information to the students
 															with respect to their University accommodation booking
 															and payment; in turn ensuring the students’ safety in an
 															international country</p>
@@ -837,13 +839,13 @@ $('.panel-group').on('shown.bs.collapse', toggleIcon);
 											            <div id="collapsenine" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingnine">
 											                <div class="panel-body">
 											                  <p>
-															<strong>Networking:</strong> AdmitWorld gets you in touch with
+															<strong>Networking:</strong> Admitworld gets you in touch with
 															other students going to the same country or university.
 															It is always great to plan together and have a company
 															while travelling
 														</p>
 														<p>
-															<strong>Pre-departure Briefing:</strong> AdmitWorld shares
+															<strong>Pre-departure Briefing:</strong> Admitworld shares
 															useful information with students about what to do before
 															leaving India, what to expect when you reach a new land
 															and more eg. Amount of forex to be bought, insurance and
@@ -851,7 +853,7 @@ $('.panel-group').on('shown.bs.collapse', toggleIcon);
 															life and living in a new country and much more
 														</p>
 														<p>
-															<strong>Foreign Exchange Services:</strong> AdmitWorld has
+															<strong>Foreign Exchange Services:</strong> Admitworld has
 															agreements with leading foreign exchange services which
 															offer a discounted exchange rate on currencies, drafts,
 															etc. The travel insurance and a whole lot of other
@@ -859,7 +861,7 @@ $('.panel-group').on('shown.bs.collapse', toggleIcon);
 															students
 														</p>
 														<p>
-															<strong>Airline Ticketing:</strong> AdmitWorld tries to work out
+															<strong>Airline Ticketing:</strong> Admitworld tries to work out
 															the most reasonable rates with reputed travel agencies so
 															as to reduce the expenses of the students wherever
 															possible
@@ -1324,8 +1326,7 @@ body #page-container .et_pb_section .et_pb_button_0:before, body #page-container
 		padding-right: 2em
 	}
 }
-</
-styl
+
 </style>
 </body>
 </html>

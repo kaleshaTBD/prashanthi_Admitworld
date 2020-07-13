@@ -377,7 +377,7 @@ background-color: #e01e2b !important;
 #why-study-in p
 {color:#000;
 }
-h1, h2, h3, h4, h5, h6
+h1, h2, h3, h4, h6
 {
 color:#e01e2b  !important;
 }
@@ -528,7 +528,7 @@ color:#e01e2b  !important;
 									from the date you decide to take the test ie. preparing for the
 									test, registering for the test and appearing for it. If you
 									need to register for the test or need help or coaching, you
-									could contact us at +91 9820864001</li>
+									could contact us at +91 90001 33877 </li>
 								<li><strong>Best Time to Apply to Canada</strong>: Best
 									time to apply for MBA in Canada is October to February for a
 									September start. Different Universities have different
@@ -1422,7 +1422,7 @@ color:#e01e2b  !important;
 												<div id="menu1" class="tab-pane fade in active">
 													<p style="padding: 15px">We are experts at what we do.
 														Since 2019, with prior experience of 14 years we have helped 1000s of students (personally).
-														As one of the leading overseas edu consultants in
+														As one of the leading overseas education consultants in
 														Hyderabad, the collective experience of our team of experts
 														go beyond a 100 years. Many of us have studied abroad and
 														know exactly what your requirements will be, what kind of
@@ -1727,10 +1727,10 @@ I would say we can always expect a positive response.
 											</div>
 											<div class="et_pb_blurb_container">
 												<h4 class="et_pb_module_header">
-													<span style="color: #fdc735">16+</span>
+													<span style="color: #fdc735">15+</span>
 												</h4>
 												<div class="et_pb_blurb_description">
-													<p>16+ years of experience in placing students
+													<p>15+ years of experience in placing students
 														worldwide</p>
 												</div>
 											</div>
@@ -1867,9 +1867,7 @@ I would say we can always expect a positive response.
 																<li><a
 																	href="canada_scholarships">Canada
 																		Scholarships</a></li>
-																<li><a
-																	href="glossary_of_terminology">Glossary
-																		of Terminology</a></li>
+																
 															</ul>
 														</div>
 													</div>

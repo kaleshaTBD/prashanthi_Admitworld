@@ -858,7 +858,7 @@ color:#07a8f5;
 													                    <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapsesix" aria-expanded="false"
 													                      aria-controls="collapsesix">
 													                        <i class="more-less glyphicon glyphicon-plus"></i>
-													                         Admitworld ACT Coaching in Hyderabad
+													                         Admitworld's ACT Coaching in Hyderabad
 													                    </a>
 													                </h4>
 													            </div>

@@ -22,7 +22,96 @@ public class RegisterDemo {
 	
 	private String exam2;
 	
+	private String workname;
+
+	private String workemail;
 	
+	private String worknumber;
+	
+	private String workstudy;
+	
+	private String workworking;
+	
+	private String workcollege;
+	
+	private String workcourse;
+	
+	private String workyear;
+	
+	private String workmessage;
+	
+
+	public String getWorkname() {
+		return workname;
+	}
+
+	public void setWorkname(String workname) {
+		this.workname = workname;
+	}
+
+	public String getWorkemail() {
+		return workemail;
+	}
+
+	public void setWorkemail(String workemail) {
+		this.workemail = workemail;
+	}
+
+	public String getWorknumber() {
+		return worknumber;
+	}
+
+	public void setWorknumber(String worknumber) {
+		this.worknumber = worknumber;
+	}
+
+	public String getWorkstudy() {
+		return workstudy;
+	}
+
+	public void setWorkstudy(String workstudy) {
+		this.workstudy = workstudy;
+	}
+
+	public String getWorkworking() {
+		return workworking;
+	}
+
+	public void setWorkworking(String workworking) {
+		this.workworking = workworking;
+	}
+
+	public String getWorkcollege() {
+		return workcollege;
+	}
+
+	public void setWorkcollege(String workcollege) {
+		this.workcollege = workcollege;
+	}
+
+	public String getWorkcourse() {
+		return workcourse;
+	}
+
+	public void setWorkcourse(String workcourse) {
+		this.workcourse = workcourse;
+	}
+
+	public String getWorkyear() {
+		return workyear;
+	}
+
+	public void setWorkyear(String workyear) {
+		this.workyear = workyear;
+	}
+
+	public String getWorkmessage() {
+		return workmessage;
+	}
+
+	public void setWorkmessage(String workmessage) {
+		this.workmessage = workmessage;
+	}
 
 	public String getMobile() {
 		return mobile;
@@ -103,6 +192,8 @@ public class RegisterDemo {
 	public void setEmial(String emial) {
 		this.emial = emial;
 	}
+
+
 	
 	
 }

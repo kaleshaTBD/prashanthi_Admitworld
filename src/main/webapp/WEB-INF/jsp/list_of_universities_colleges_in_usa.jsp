@@ -1440,7 +1440,7 @@ color:#002868;
 															</div>
 														</div>
 													</div>
-													< <div id="carousel-example" class="carousel slide hidden-xs" data-ride="carousel">
+													 <div id="carousel-example" class="carousel slide hidden-xs" data-ride="carousel">
 															            <!-- Wrapper for slides -->
 															            <div class="carousel-inner">
 															                <div class="item active">
@@ -1661,10 +1661,10 @@ color:#002868;
 																</div>
 																<div class="et_pb_blurb_container">
 																	<h4 class="et_pb_module_header">
-																		<span style="color: #fdc735">16+</span>
+																		<span style="color: #fdc735">15+</span>
 																	</h4>
 																	<div class="et_pb_blurb_description">
-																		<p>16+ years of experience in placing students
+																		<p>15+ years of experience in placing students
 																			worldwide</p>
 																	</div>
 																</div>

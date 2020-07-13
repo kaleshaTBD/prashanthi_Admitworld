@@ -382,7 +382,7 @@ color:#e12d36 !important;
 {
 color:#e12d36 !important;
 }
-h1, h2, h3, h4, h5, h6
+h1, h2, h3, h4, h6
 {
 color:#e12d36 !important;
 }
@@ -485,10 +485,8 @@ color:#fff !important;
 						<p> </p>
 						<h3>Work AFTER finishing studies in the UK:</h3>
 						<ul>
-							<li>Students generally get a UK study visa which allows them
-								to stay in the UK for a period of 4 additionally months after
-								the last date of the course</li>
-							<li>If a student gets a job of GBP 20800 annually, then
+							<li>On declaration of results, you will be able to stay back in UK for two years to seek employment</li>
+							<li>If a student gets a job of GBP 25600 annually, then
 								he/she can apply for a Tier 2 visa which allows a further
 								extension of 3 years to work in UK</li>
 							<li>We recommend students to start early ie. at least 6
@@ -533,7 +531,7 @@ color:#fff !important;
 															id="menu1" class="tab-pane fade in active">
 																<p style="padding:15px">We are experts at what we do. Since 2019, with prior experience of 14 years we have
 																	helped 1000s of students (personally). As one of the
-																	leading overseas edu consultants in Hyderabad, the
+																	leading overseas education consultants in Hyderabad, the
 																	collective experience of our team of experts go beyond
 																	a 50 years. Many of us have studied abroad and know
 																	exactly what your requirements will be, what kind of
@@ -808,10 +806,10 @@ color:#fff !important;
 													</div>
 													<div class="et_pb_blurb_container">
 														<h4 class="et_pb_module_header">
-															<span style="color: #fdc735">16+</span>
+															<span style="color: #fdc735">15+</span>
 														</h4>
 														<div class="et_pb_blurb_description">
-															<p>16+ years of experience in placing students
+															<p>15+ years of experience in placing students
 																worldwide</p>
 														</div>
 													</div>
@@ -863,7 +861,7 @@ color:#fff !important;
 																	<li><a
 																	href="list_uk_university_colleges">List of Universities and Colleges in UK</a></li>
 																	<li><a
-																	href="uk_university_jan">UK University January 2020 Intake</a></li>
+																	href="uk_university_jan">UK University January 2021 Intake</a></li>
 															</ul>
 														</div>
 													</div>
@@ -936,8 +934,7 @@ color:#fff !important;
 																<li><a
 																	href="common_que_faq_uk">Common Questions – FAQs – UK</a></li>
 																
-																<li><a
-																	href="glossary_of_terminology">Glossary of Terminology</a></li>
+																
 																
 															</ul>
 														</div>

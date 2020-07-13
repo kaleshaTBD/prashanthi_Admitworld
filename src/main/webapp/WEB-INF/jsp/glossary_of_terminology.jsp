@@ -302,6 +302,8 @@ color:#00A8E8;
 							src="wp-content/uploads/2019/09/study-in-germany-banner-1.jpg"
 							alt="Study in USA" class="attachment-full">
 							<div id="hero-title" style="margin-top: -60.5px;">
+							<div class="container">
+									<h1>Glossary Of Terminology </h1>
 									<div id="banner-overlay-text">
 										<a href="#" target="_blank"><i
 											class="fa fa-phone"></i> +91 9000133877</a> <a
@@ -655,10 +657,10 @@ color:#00A8E8;
 																</div>
 																<div class="et_pb_blurb_container">
 																	<h4 class="et_pb_module_header">
-																		<span style="color: #fdc735">16+</span>
+																		<span style="color: #fdc735">15+</span>
 																	</h4>
 																	<div class="et_pb_blurb_description">
-																		<p>16+ years of experience in placing students
+																		<p>15+ years of experience in placing students
 																			worldwide</p>
 																	</div>
 																</div>
@@ -741,6 +743,7 @@ color:#00A8E8;
 									</div>
                                  </div>
                                  
+							</div>
 							</div>
 
 					<jsp:include page="commonfooter.jsp" />

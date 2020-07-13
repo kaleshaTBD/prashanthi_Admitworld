@@ -256,6 +256,10 @@
 	{
 	color:#07a8f5;
 	}
+		.et-boc a:hover
+	{
+	color:#000;
+	}
 	    </style>
 	      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
 
@@ -302,7 +306,7 @@
 												<div class="et_pb_module et_pb_text et_pb_text_1 et_pb_bg_layout_light  et_pb_text_align_left">
 											<div class="et_pb_text_inner wow slideInRight">
 												<p>
-													AdmitWorld is an overseas education consultants advising
+													Admitworld is an overseas education consultants advising
 													students wishing to study abroad. Our team of experts also
 													guide students to select the right course and career in
 													India through our career tests
@@ -313,11 +317,11 @@
 													about the process and beyond.
 												</p>
 												<p>
-													AdmitWorld provides counselling services for studying in USA, UK,Ireland,Canada,Australia,
+													Admitworld provides counselling services for studying in USA, UK,Ireland,Canada,Australia,
 													New Zealand, Singapore and 
 													  Dubai.
 												</p>
-												<p>AdmitWorld is dedicated to providing the required
+												<p>Admitworld is dedicated to providing the required
 													direction to students from short-listing right Universities
 													to making University applications, top essay editing,
 													liaising with Universities on admission decisions,
@@ -337,7 +341,7 @@
 													And do not forget, we also provide coaching for <a
 														href="gmat" target="_blank">GMAT</a> /
 													<a href="gre" target="_blank">GRE</a> /
-													<a href="toefl" target="_blank">IELTS</a> / <a href="#"
+													<a href="ielts" target="_blank">IELTS</a> / <a href="toefl"
 														target="_blank">TOEFL</a> / <a
 														href="pte" target="_blank">PTE</a> and
 													we are very good at it.
@@ -357,7 +361,7 @@
 												</div>
 												<div class="et_pb_module et_pb_text et_pb_text_3 et_pb_bg_layout_light  et_pb_text_align_left">
 													<div class="et_pb_text_inner">
-												<p>AdmitWorld was established in the year 2019, with prior experience of 14 years  by UK alumni Santhosh Kumar Durusetti and Gayathri and our core team has expertise of 10 years in counseling including self travel Experience across globe, visiting
+												<p>Admitworld was established in the year 2019, with prior experience of 14 years  by UK alumni Santhosh Kumar Durusetti and Gayathri and our core team has expertise of 10 years in counseling including self travel Experience across globe, visiting
 													many Universities</p>
 											</div>
 												</div>
@@ -374,9 +378,9 @@
 											<div class="col-md-4">
 												<div class="et_pb_module et_pb_text et_pb_text_4 et_pb_bg_layout_light  et_pb_text_align_left">
 													<div class="et_pb_text_inner">
-												<p>AdmitWorld is the authorised representative of a
+												<p>Admitworld is the authorised representative of a
 													large number of foreign Universities and Colleges. At
-													AdmitWorld, students get the unique opportunity to meet
+													Admitworld, students get the unique opportunity to meet
 													several University / College representatives and officials
 													and get the opportunity to speak to them directly</p>
 											</div>
@@ -392,7 +396,7 @@
 											<div class="col-md-4">
 												<div class="et_pb_module et_pb_text et_pb_text_6 et_pb_bg_layout_light  et_pb_text_align_left">
 													<div class="et_pb_text_inner">
-														<p>AdmitWorld has counselled 1000s of students and is continuing strongly</p>
+														<p>Admitworld has counselled 1000s of students and is continuing strongly</p>
 													</div>
 												</div>
 											</div>
@@ -401,7 +405,7 @@
 											<div class="col-md-4">
 												<div class="et_pb_module et_pb_text et_pb_text_7 et_pb_bg_layout_light  et_pb_text_align_left">
 													<div class="et_pb_text_inner">
-												<p>AdmitWorld has study plans for students with all
+												<p>Admitworld has study plans for students with all
 													financial backgrounds and budgets. Some of our students
 													have joined some of the topmost programs in the world to
 													some priced at only Rs 3 lacs a year</p>
@@ -412,7 +416,7 @@
 												<div class="et_pb_module et_pb_text et_pb_text_8 et_pb_bg_layout_light  et_pb_text_align_left">
 													<div class="et_pb_text_inner">
 												<p>
-													AdmitWorld provides a &#8216;Total Solution&#8217; – right
+													Admitworld provides a &#8216;Total Solution&#8217; – right
 													from coaching for <a href="gmat"
 														target="_blank">GMAT</a> / <a
 														href="gre" target="_blank">GRE</a> / <a
@@ -432,7 +436,7 @@
 											<div class="col-md-4">
 												<div class="et_pb_module et_pb_text et_pb_text_9 et_pb_bg_layout_light  et_pb_text_align_left">
 													<div class="et_pb_text_inner">
-														<p>AdmitWorld offers solutions to students wishing to study at almost all levels: A Levels, Foundation, Diploma, Bachelors, Fast-track Bachelors (in 2 years), PG Diploma, MBA (with or without work experience), Masters (MS / MA / MSc), Research (MPhil, PhD) and even internship programmes where students can study and work during the course</p>
+														<p>Admitworld offers solutions to students wishing to study at almost all levels: A Levels, Foundation, Diploma, Bachelors, Fast-track Bachelors (in 2 years), PG Diploma, MBA (with or without work experience), Masters (MS / MA / MSc), Research (MPhil, PhD) and even internship programmes where students can study and work during the course</p>
 													</div>
 												</div>
 											</div>
@@ -441,14 +445,14 @@
 											<div class="col-md-4">
 												<div class="et_pb_module et_pb_text et_pb_text_10 et_pb_bg_layout_light  et_pb_text_align_left">
 													<div class="et_pb_text_inner">
-														<p>Students at AdmitWorld often refer to the exhaustive information sources like brochures, prospectuses, CDs, application forms, samples of SOPs, recommendation letters, etc.</p>
+														<p>Students at Admitworld often refer to the exhaustive information sources like brochures, prospectuses, CDs, application forms, samples of SOPs, recommendation letters, etc.</p>
 													</div>
 												</div>
 											</div>
 											<div class="col-md-4">
 												<div class="et_pb_module et_pb_text et_pb_text_11 et_pb_bg_layout_light  et_pb_text_align_left">
 													<div class="et_pb_text_inner">
-														<p>AdmitWorld has the authority to recommend many Universities to waive students&#8217; <a href="ielts" target="_blank">IELTS</a> / <a href="toefl" target="_blank">TOEFL</a> requirement</p>
+														<p>Admitworld has the authority to recommend many Universities to waive students&#8217; <a href="ielts" target="_blank">IELTS</a> / <a href="toefl" target="_blank">TOEFL</a> requirement</p>
 													</div>
 												</div>
 											</div>

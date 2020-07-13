@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>AdmitWorld Edu Consultants</title>
+<title>Admitworld Edu Consultants</title>
 <style>
 #et-secondary-nav .menu-item-has-children>a:first-child:after, #top-menu .menu-item-has-children>a:first-child:after
 	{
@@ -382,7 +382,7 @@ color:#6DAB3C !important;
 {
 color:#6DAB3C !important;
 }
-h1, h2, h3, h4, h5, h6
+h1, h2, h3, h4, h6
 {
 color:#6DAB3C !important;
 }
@@ -408,7 +408,7 @@ color:#000 !important;
 											class="fa fa-phone"></i> +91 9000133877</a> <a
 											href="https://www.facebook.com/admitworldeduconsultants" target="_blank"> <i
 											class="fa fa-facebook"></i> 
-										</a><a href="https://www.twitter.com/admitworld" target="_blank"><i
+										</a><a href="https://www.twitter.com/Admitworld" target="_blank"><i
 											class="fa fa-twitter"></i></a>
 											 <a href="https://www.instagram.com/admitworldeduconsultants" target="_blank"><i class="fa fa-instagram"></i></a>
 									</div>
@@ -481,7 +481,7 @@ color:#000 !important;
 									Euro 8000 to Euro 15000 approx. per year, while postgraduate
 									courses in Ireland (Masters) can cost between Euro 10000 to Euro
 									10000 approx. per year. Living cost in Ireland range between Euro
-									7000 to Euro 10000 per year in general.</p>
+									<b>7000 to Euro 10000 per year</b> in general.</p>
 								<h5 id="do-the-math:">Do the Math:</h5>
 								<p>1 Year Masters with Affordable Fee + 2 Years Stay Back to
 									Work + 1000s of Companies (with EU HQs of World&#8217;s Top
@@ -670,7 +670,7 @@ color:#000 !important;
 									If you are interested Course abroad in Ireland, <a
 										href="contact_us" target="_blank"
 										rel="noopener noreferrer">arrange a free consultation</a> with
-									AdmitWorld Education Consultants today. Our Study in Ireland
+									Admitworld Edu Consultants today. Our Study in Ireland
 									application experts can help you successfully apply to all Irish
 									Universities and Colleges.
 								</p>
@@ -999,10 +999,10 @@ color:#000 !important;
 													</div>
 													<div class="et_pb_blurb_container">
 														<h4 class="et_pb_module_header">
-															<span style="color: #fdc735">16+</span>
+															<span style="color: #fdc735">15+</span>
 														</h4>
 														<div class="et_pb_blurb_description">
-															<p>16+ years of experience in placing students
+															<p>15+ years of experience in placing students
 																worldwide</p>
 														</div>
 													</div>
@@ -1118,8 +1118,7 @@ color:#000 !important;
 																	href="ireland_education_system">Ireland Education System</a></li>
 																<li><a
 																	href="ireland_scholarships">Scholarships in Ireland</a></li>
-																<li><a
-																	href="glossary_of_terminology">Glossary of Terminology</a></li>
+																
 																
 															</ul>
 														</div>

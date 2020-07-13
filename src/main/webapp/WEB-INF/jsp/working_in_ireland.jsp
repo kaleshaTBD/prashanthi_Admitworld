@@ -443,7 +443,7 @@ color:#000 !important;
 							<p>&nbsp;</p>
 							<p>
 								On declaration of results, you will be able to stay back in
-								Ireland for one year to seek employment. Once you get your job
+								Ireland for two year to seek employment. Once you get your job
 								(and are earning<a
 									href="https://www.xe.com/currencyconverter/convert/?Amount=1&amp;From=EUR&amp;To=INR"
 									target="_blank" rel="noopener noreferrer"> Euro</a> 30000
@@ -467,12 +467,12 @@ color:#000 !important;
 							<h2>Duration and Entry:</h2>
 							<p>&nbsp;</p>
 							<p>
-								Mostly all <a href="../masters-in-ireland/index.html">Masters
-									in Ireland </a>are only of ONE year duration. Save time! Get in to
+								Mostly all Masters
+									in Ireland are only of ONE year duration. Save time! Get in to
 								your career early. Irish Universities accept students with <strong>15
 									years of education</strong> and <a href="gmat"
-									target="_blank">GMAT</a> or <a
-									href="gre" target="_blank">GRE</a> is <strong>not
+									target="_blank"  style="color:#0c4da2">GMAT</a> or <a
+									href="gre" target="_blank"  style="color:#0c4da2">GRE</a> is <strong>not
 									required</strong> to apply.
 							</p>
 							<p>
@@ -481,10 +481,10 @@ color:#000 !important;
 								you with the entire admission process. There is no consultation
 								fees for the same. And there are a lot of advantages of to study
 								in Ireland. You need understand the <a
-									href="easy_admission_process_irelan"
-									target="_blank" rel="noopener noreferrer">admission process</a>
-								and <a href="../cost-of-studying-in-ireland/index.html"
-									target="_blank" rel="noopener noreferrer">cost of studying</a>
+									href="easy_admission_process_ireland"
+									target="_blank" rel="noopener noreferrer" style="color:#0c4da2">admission process</a>
+								and <a href="cost_of_studying_in_ireland"
+									target="_blank" rel="noopener noreferrer" style="color:#0c4da2">cost of studying</a>
 								in Ireland.
 							</p>
 							<p>&nbsp;</p>
@@ -522,7 +522,7 @@ color:#000 !important;
 															id="menu1" class="tab-pane fade in active">
 																<p style="padding:15px">We are experts at what we do. Since 2019, with prior experience of 14 years we have
 																	helped 1000s of students (personally). As one of the
-																	leading overseas edu consultants in Hyderabad, the
+																	leading overseas education consultants in Hyderabad, the
 																	collective experience of our team of experts go beyond
 																	a 50 years. Many of us have studied abroad and know
 																	exactly what your requirements will be, what kind of
@@ -800,10 +800,10 @@ color:#000 !important;
 													</div>
 													<div class="et_pb_blurb_container">
 														<h4 class="et_pb_module_header">
-															<span style="color: #fdc735">16+</span>
+															<span style="color: #fdc735">15+</span>
 														</h4>
 														<div class="et_pb_blurb_description">
-															<p>16+ years of experience in placing students
+															<p>15+ years of experience in placing students
 																worldwide</p>
 														</div>
 													</div>
@@ -919,8 +919,7 @@ color:#000 !important;
 																	href="ireland_education_system">Ireland Education System</a></li>
 																<li><a
 																	href="ireland_scholarships">Scholarships in Ireland</a></li>
-																<li><a
-																	href="glossary_of_terminology">Glossary of Terminology</a></li>
+															
 																
 															</ul>
 														</div>

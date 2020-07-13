@@ -382,7 +382,7 @@ color:#e12d36 !important;
 {
 color:#e12d36 !important;
 }
-h1, h2, h3, h4, h5, h6
+h1, h2, h3, h4, h6
 {
 color:#e12d36 !important;
 }
@@ -472,14 +472,14 @@ color:#fff !important;
 										in India.</p>
 									<p>&nbsp;</p>
 									<h3>Duration of Master&#8217;s in UK:</h3>
-									<p>All UK MSc programs are of 1 YEAR duration in general
+									<p>All UK MSc programs are of 1-2 year's duration in general
 										including ‘Taught Masters’ or ‘Masters by Research’. So you can
 										save one precious year and get in to the industry early. UK MPhil
 										(Master of Philosophy) programs are of two years in duration.</p>
 									<p>&nbsp;</p>
 									<h3>Start Date in the UK:</h3>
-									<p>Most MS programs in UK will begin in Fall (August) and
-										Spring (January) each year. While Spring (January) is also fairly
+									<p>Most MS programs in UK will begin in Fall (August),
+										Spring (January) and May(Summer) each year. While Spring (January) is also fairly
 										big intake, students must prefer the Fall (August) start.</p>
 									<p>&nbsp;</p>
 									<h3>Cost of Studying Master&#8217;s in UK:</h3>
@@ -552,13 +552,11 @@ color:#fff !important;
 										or MSc in UK and full-time (40 hours per week) during holidays.</p>
 									<p>&nbsp;</p>
 									<h3>Work AFTER Master&#8217;s in UK:</h3>
-									<p>For a 1 year Masters in UK, a student gets a period of 16
-										months to study and live in the UK. Thus, student can an
-										additional of full four months to find jobs in UK. If the job
-										offer is GBP 20800 or higher annually, then students can apply
-										for a Tier 2 visa which offers an extension to work in UK for
-													another 3 years.</p>
-									<h3>Masters Programs that Engineering Students can study in
+						<p>You will be able to stay back in UK for two years to find
+							jobs in UK after you have finished your course.IF you secure a
+							job offer of or ever GBP 25600 annually,You can apply for a Tier 2
+							visa that allows you an extension to work in the UK for 3 years</p>
+						<h3>Masters Programs that Engineering Students can study in
 										the UK:</h3>
 									<p>&nbsp;</p>
 									<table width="979">
@@ -771,9 +769,8 @@ color:#fff !important;
 										about your employment, education, and achievements. Generally, we
 										recommend that your resume / CV should be should only be of one
 										page. Here is where you can get a simple explanation on what can
-										appear on a <a
-											href="https://www.linkedin.com/pulse/create-best-resume-14-simple-bitter-sour-rules-vishal-badani">smart
-											resume</a>
+										appear on a smart
+											resume
 									</p>
 									<p>&nbsp;</p>
 									<h3>Letter of Recommendation for Master&#8217;s in UK</h3>
@@ -979,7 +976,7 @@ color:#fff !important;
 																<p style="padding:15px">We are experts at what we do. Since 2019 , with prior experience of 14 years
 																we have
 																	helped 1000s of students (personally). As one of the
-																	leading overseas edu consultants in Hyderabad, the
+																	leading overseas education consultants in Hyderabad, the
 																	collective experience of our team of experts go beyond
 																	a 50 years. Many of us have studied abroad and know
 																	exactly what your requirements will be, what kind of
@@ -1254,10 +1251,10 @@ color:#fff !important;
 													</div>
 													<div class="et_pb_blurb_container">
 														<h4 class="et_pb_module_header">
-															<span style="color: #fdc735">16+</span>
+															<span style="color: #fdc735">15+</span>
 														</h4>
 														<div class="et_pb_blurb_description">
-															<p>16+ years of experience in placing students
+															<p>15+ years of experience in placing students
 																worldwide</p>
 														</div>
 													</div>
@@ -1309,7 +1306,7 @@ color:#fff !important;
 																	<li><a
 																	href="list_uk_university_colleges">List of Universities and Colleges in UK</a></li>
 																	<li><a
-																	href="uk_university_jan">UK University January 2020 Intake</a></li>
+																	href="uk_university_jan">UK University January 2021 Intake</a></li>
 															</ul>
 														</div>
 													</div>
@@ -1382,8 +1379,6 @@ color:#fff !important;
 																<li><a
 																	href="common_que_faq_uk">Common Questions – FAQs – UK</a></li>
 																
-																<li><a
-																	href="glossary_of_terminology">Glossary of Terminology</a></li>
 																
 															</ul>
 														</div>

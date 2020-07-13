@@ -151,7 +151,7 @@ height:auto !important;
 											<div class="header-content wow zoomIn">
 												<h1 class="et_pb_module_header"><center>Welcome to Admitworld Edu Consultants</center></h1>
 												<div class="et_pb_header_content_wrapper">
-													<h3 style="text-align: center;">We are trusted overseas education consultants as well as a career guidance counsellors for students to study abroad and help to choose choose the right course and career in Abroad. Our expertise is in selecting the right country and course so as to enable students to build a great career and also in helping students get scholarships</h3></div>
+													<h3 style="text-align: center;">We are trusted overseas education consultants as well as a career guidance counsellors for students to study abroad and help to choose  the right course and career in Abroad. Our expertise is in selecting the right country and course so as to enable students to build a great career and also in helping students get scholarships</h3></div>
 											</div>
 										</div>
 									</div>
@@ -264,7 +264,7 @@ height:auto !important;
 												<div class="et_pb_blurb_container">
 													<h2 class="et_pb_module_header"><a href="whatwedo_aboutus">Scholarships</a></h2>
 													<div class="et_pb_blurb_description">
-														<p>Admitworld keeps a track of various funding and scholarship opportunities which is shared with the students. ILW</p>
+														<p>Admitworld keeps a track of various funding and scholarship opportunities which is shared with the students.</p>
 														  <a href='what_we_do' class='small-button smallblue'>Get Financial Aid</a>
 												    </div>
 												</div>
@@ -309,7 +309,7 @@ height:auto !important;
 										<div class="et_pb_module et_pb_blurb et_pb_blurb_3 et_clickable et_pb_bg_layout_light  et_pb_text_align_left  et_pb_blurb_position_top">
 											<div class="et_pb_blurb_content wow slideInLeft">
 												<div class="et_pb_main_blurb_image">
-												   <a href="uk-university-january-intake-courses-2020/index.html" target="_blank">
+												   <a href="uk_university_jan" target="_blank">
 												     <span class="et_pb_image_wrap">
 												     	<img src="wp-content/uploads/2019/09/ProspDay4_0017-001.jpg" sizes="(max-width: 359px) 100vw, 359px"/></noscript>
 												         </noscript>
@@ -318,9 +318,9 @@ height:auto !important;
 												  </div>
 												<div class="et_pb_blurb_container">
 													<h2 class="et_pb_module_header">
-													  <a href="uk_university_jan" target="_blank">UK University September 2020 Intake</a></h2>
+													  <a href="uk_university_jan" target="_blank">UK University January 2021 Intake</a></h2>
 													<div class="et_pb_blurb_description">
-														<p>All UK Universities have courses starting in September, including Undergraduate courses and Postgraduate courses. Start your UK degree in september 2020.know which UK universities offers september 2020 intake.															degree in January 2020. Know which UK universities offers January 2020 Intake.
+														<p>All UK Universities have courses starting in September and January, including Undergraduate courses and Postgraduate courses. Start your UK degree in January 2021.know which UK universities offers January 2021 intake. 
 														</p>
 													</div>
 												</div>
@@ -331,9 +331,9 @@ height:auto !important;
 										<div class="et_pb_module et_pb_blurb et_pb_blurb_4 et_clickable et_pb_bg_layout_light  et_pb_text_align_left  et_pb_blurb_position_top">
 											<div class="et_pb_blurb_content wow slideInUp">
 												<div class="et_pb_main_blurb_image">
-												  <a href="business_analytics_masters_in_usa_top_universities" target="_blank">
+												  <a href="datascience_ireland" target="_blank">
 													    <span class="et_pb_image_wrap">
-														  	  <img src="wp-content/uploads/2019/05/Business-Analytics-Masters-in-Ireland-ILW-Education-Consultants.jpg"
+														  	  <img src="wp-content/uploads/2019/05/Business-Analytics-Masters-in-Ireland-Education-Consultants.jpg"
 														  	  sizes="(max-width: 359px) 100vw, 359px"/></noscript>
 														      </noscript>
 													    </span>
@@ -341,7 +341,7 @@ height:auto !important;
 												  </div>
 												  <div class="et_pb_blurb_container">
 													<h2 class="et_pb_module_header">
-													  <a href="ms_in_ireland" target="_blank">Data Science Masters in Ireland</a>
+													  <a href="datascience_ireland" target="_blank">Data Science Masters in Ireland</a>
 													 </h2>
 													<div class="et_pb_blurb_description">
 														<p>Data Science Masters in Ireland &#8211; Check out the list of Irish Universities offering a course in Data Science or Data 															Analytics. Ireland offers 2 years Post-study work visa after Masters</p>
@@ -365,7 +365,7 @@ height:auto !important;
 													<h2 class="et_pb_module_header">
 													 <a href="bachelors_in_usa" target="_blank">Study undergraduate degree in the USA</a></h2>
 													   <div class="et_pb_blurb_description">
-														<p>Key points about studying Bachelors degree in the US. Quick information on various queries such as best time to apply, early 														action, early decision, best time to take the <a href="../ilwindia.com/exams/sat/index.html" target="_blank">SAT</a> or <a 														href="exams/act/index.html" target="_blank">ACT</a> test, and much more</p>
+														<p>Key points about studying Bachelors degree in the US. Quick information on various queries such as best time to apply, early 														action, early decision, best time to take the <b><a href="sat1" target="_blank">SAT</a> or <a href="act" target="_blank">ACT</a> </b>test, and much more</p>
 													</div>
 												</div>
 											</div>
@@ -483,9 +483,9 @@ height:auto !important;
 												<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap"><span class="et-waypoint et_pb_animation_off et-pb-icon" style="font-family: 'FontAwesome' !important;">fa-&#xf006;</span></span>
 												</div>
 												<div class="et_pb_blurb_container">
-													<h4 class="et_pb_module_header"><span>16+</span></h4>
+													<h4 class="et_pb_module_header"><span>15+</span></h4>
 													<div class="et_pb_blurb_description">
-														<p>16+ years of experience in placing students worldwide</p>
+														<p>15+ years of experience in placing students worldwide</p>
 													</div>
 												</div>
 											</div>

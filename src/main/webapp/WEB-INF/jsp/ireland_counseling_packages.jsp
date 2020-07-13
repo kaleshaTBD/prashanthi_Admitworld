@@ -439,12 +439,7 @@ color:#000 !important;
 								<strong>Ireland Counseling Packages</strong>
 							</h1>
 							<p>
-								We&#8217;ll keep this simple.It is <strong>FREE</strong>. Ireland
-								Counseling Packages are free. We do not charge if you wish to
-								apply to only Ireland through us. In fact we <strong>SAVE</strong>
-								you some application fee too that is charged by the
-								Universities. The universities charge in <a
-									href="https://www.xe.com/currencyconverter/convert/?Amount=1&amp;From=EUR&amp;To=INR">Euros</a>.
+								We&#8217;ll keep this simple if any of students attends spot assessment then the application process will be waived off.
 							</p>
 							<p>&nbsp;</p>
 							<h3>However we won&#8217;t leave this opportunity to tell you why
@@ -515,7 +510,7 @@ color:#000 !important;
 																<p style="padding:15px">We are experts at what we do. Since 2019 with prior experience of 14 years
 																 we have
 																	helped 1000s of students (personally). As one of the
-																	leading overseas edu consultants in Hyderabad, the
+																	leading overseas education consultants in Hyderabad, the
 																	collective experience of our team of experts go beyond
 																	a 100 years. Many of us have studied abroad and know
 																	exactly what your requirements will be, what kind of
@@ -794,10 +789,10 @@ color:#000 !important;
 													</div>
 													<div class="et_pb_blurb_container">
 														<h4 class="et_pb_module_header">
-															<span style="color: #fdc735">16+</span>
+															<span style="color: #fdc735">15+</span>
 														</h4>
 														<div class="et_pb_blurb_description">
-															<p>16+ years of experience in placing students
+															<p>15+ years of experience in placing students
 																worldwide</p>
 														</div>
 													</div>
@@ -913,8 +908,7 @@ color:#000 !important;
 																	href="ireland_education_system">Ireland Education System</a></li>
 																<li><a
 																	href="ireland_scholarships">Scholarships in Ireland</a></li>
-																<li><a
-																	href="glossary_of_terminology">Glossary of Terminology</a></li>
+																
 																
 															</ul>
 														</div>

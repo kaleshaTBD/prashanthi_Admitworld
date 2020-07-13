@@ -390,7 +390,7 @@ color:#002868;
 																		<p style="padding: 15px">We are experts at what we
 																			do. Since 2019, with prior experience of 14 years we have helped 1000s of students
 																			(personally). As one of the leading overseas
-																			edu consultants in Hyderabad, the collective
+																			education consultants in Hyderabad, the collective
 																			experience of our team of experts go beyond a 50
 																			years. Many of us have studied abroad and know
 																			exactly what your requirements will be, what kind of

@@ -4177,10 +4177,10 @@ I would say we can always expect a positive response.
 											</div>
 											<div class="et_pb_blurb_container">
 												<h4 class="et_pb_module_header">
-													<span style="color: #fdc735">16+</span>
+													<span style="color: #fdc735">15+</span>
 												</h4>
 												<div class="et_pb_blurb_description">
-													<p>16+ years of experience in placing students
+													<p>15+ years of experience in placing students
 														worldwide</p>
 												</div>
 											</div>
@@ -4317,9 +4317,7 @@ I would say we can always expect a positive response.
 																<li><a
 																	href="canada_scholarships">Canada
 																		Scholarships</a></li>
-																<li><a
-																	href="glossary_of_terminology">Glossary
-																		of Terminology</a></li>
+																
 															</ul>
 														</div>
 													</div>

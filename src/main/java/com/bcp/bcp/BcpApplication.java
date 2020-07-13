@@ -1,3 +1,6 @@
+
+
+
 package com.bcp.bcp;
 
 import java.io.IOException;
@@ -20,6 +23,7 @@ import org.springframework.boot.web.servlet.support.SpringBootServletInitializer
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.core.io.Resource;
+import org.springframework.core.io.ResourceLoader;
 import org.springframework.core.io.UrlResource;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
@@ -72,7 +76,11 @@ public class BcpApplication extends SpringBootServletInitializer {
 				sendEmail(name,email,contact, city_live,study_intrest,country_interest,past_degree, exam1, exam2,message1);
 	             return new ResponseEntity<Object>("Registered Successfully.... Thank you!",HttpStatus.OK);
 	    }
-	    
+	
+	
+	
+	
+	
 	    void sendEmail(String name, String email, String contact, String city_live, String study_intrest, String country_interest, String past_degree, String exam1, String exam2, String message1) {
 	    	System.out.println("print2");
 	    	SimpleMailMessage msg = new SimpleMailMessage();
@@ -111,7 +119,64 @@ public class BcpApplication extends SpringBootServletInitializer {
 	        	
 	        }
 	    }
+	    @RequestMapping(value = "/workregister", method = RequestMethod.POST)
+	    public ResponseEntity<?> worklogin(@RequestBody RegisterDemo demo) throws MessagingException, IOException {
+	     
+		System.out.println("workprint");
+		String workname=demo.getWorkname();
+		String workemail=demo.getWorkemail();
+		String worknumber=demo.getWorknumber();
+		String workstudy=demo.getWorkstudy();
+		String workworking=demo.getWorkworking();
+		String workcollege=demo.getWorkcollege();
+		String workcourse=demo.getWorkcourse();
+		String workyear=demo.getWorkyear();
+		String workmessage=demo.getWorkmessage();
+		
+				sendworkEmail(workname,workemail,worknumber, workstudy,workworking,workcollege,workcourse, workyear, workmessage);
+	             return new ResponseEntity<Object>("Registered Successfully.... Thank you!",HttpStatus.OK);
+	    }
+	    
+	    
+	    void sendworkEmail(String workname, String workemail, String worknumber, String workstudy, String workworking, String workcollege, String workcourse, String workyear, String workmessage) {
+	    	System.out.println("workprint2");
+	    	SimpleMailMessage msg = new SimpleMailMessage();
+	       // msg.setTo("kalesha.skv@gmail.com");
+	       
+	      //  msg.setSubject("Mail from Kalesha");
+	      //  msg.setText("Hello World \n Good Afternoon...!");
+	        try {
+	        MimeMessage message =javaMailSender.createMimeMessage();
+	        MimeMessageHelper helper = new MimeMessageHelper(message, false, "utf-8");
+	        String htmlMsg = "<body style='border:2px solid black'>"
+	        		
+	                    +"<h3>Name : "+workname+"</h3> "
+	                    +"<h3>Email : "+workemail+"</h3> "
+	                    +"<h3>Mobile : "+worknumber+"</h3> "
+	                    +"<h3>Study : "+workstudy+"</h3> "
+	                    +"<h3>Working : "+workworking+"</h3> "
+	                    +"<h3>CollegeName : "+workcollege+"</h3> "
+	                    +"<h3>Highest Qualification : "+workcourse+"</h3> "
+	                    +"<h3>Year Of Graduation : "+workyear+"</h3> "
+	                    +"<h3>Message : "+workmessage+"</h3> "
+	                    
+	                    +"</body>";
+	        message.setContent(htmlMsg, "text/html");
+	        helper.setTo("process@admitworld.com");
+	        helper.setCc("santhosh@admitworld.com");
+	        helper.setSubject("Mail from : "+workname+"---"+worknumber+"---"+workemail);
+	 
+	        javaMailSender.send(message);
 
+	        //javaMailSender.send(msg);
+	        }
+	        catch(Exception e)
+	        {
+	        	
+	        }
+	    }
+	    
+	    
 	    @RequestMapping(value = "/welcome_to_admitworld", method = RequestMethod.GET)
         public String welcme_to_admitworld() {
 
@@ -137,14 +202,18 @@ public class BcpApplication extends SpringBootServletInitializer {
         }
 
  
-
+        @Autowired
+        private ResourceLoader resourceLoader;
+        
         @GetMapping("/files/download/{fileName:.+}")
         public ResponseEntity downloadFileFromLocal(@PathVariable String fileName) {
             Path path = Paths.get(fileName);
             Resource resource = null;
             try {
-                resource = new UrlResource(path.toUri());
-            } catch (MalformedURLException e) {
+                //resource = new UrlResource(path.toUri());
+                resource = resourceLoader.getResource("classpath:StudentRegistrationForm.docx");
+                
+            } catch (Exception e) {
                 e.printStackTrace();
             }
             return ResponseEntity.ok()
@@ -396,7 +465,7 @@ public class BcpApplication extends SpringBootServletInitializer {
 	{
 		return "tests_required_to_apply_to_usa";
 	}
-	@RequestMapping(value="/admission_process_for_usa", method=RequestMethod.GET)
+	@RequestMapping(value="/admission_process_for-usa", method=RequestMethod.GET)
 	public String admission_process_for_usa()
 	{
 		return "admission_process_for_usa";
@@ -1251,6 +1320,31 @@ public class BcpApplication extends SpringBootServletInitializer {
 	public String dubai_scholarship()
 	{
 		return "dubai_scholarship";
+	}
+	@RequestMapping(value="/study_abroad", method=RequestMethod.GET)
+	public String study_abroad()
+	{
+		return "studyabroad";
+	}
+	@RequestMapping(value="/mba_without_work_experience_uk", method=RequestMethod.GET)
+	public String mba_without_work_exp()
+	{
+		return "mba_without_work_exp";
+	}
+	@RequestMapping(value="/assistant_counsellor_education_counsellor", method=RequestMethod.GET)
+	public String assistant_counsellor_education_counsellor()
+	{
+		return "assistant-counsellor-education-counsellor";
+	}
+	@RequestMapping(value="/senior_education_counsellor_senior_counsellor", method=RequestMethod.GET)
+	public String senior_education_counsellor_senior_counsellor()
+	{
+		return "senior-education-counsellor-senior-counsellor";
+	}
+	@RequestMapping(value="/datascience_ireland", method=RequestMethod.GET)
+	public String datascience_ireland()
+	{
+		return "datascience_ireland";
 	}
 	public static void main(String[] args) {
         SpringApplication.run(BcpApplication.class, args);

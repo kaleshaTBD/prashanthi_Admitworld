@@ -57,11 +57,12 @@
 					                <hr>
 					                 <div class="et_pb_blurb_description">
 						                 <p>
-						                   <strong>AdmitWorld</strong><br> <em> Edu Consultants</em>
-							               <br> MIG-36,Apple Homes,1st floor,Road no:1,Lane:4<br> Kphb Colony,<br> Hyderabad &#8211; 500072,Telangana
-							               <br> Opp Lane To Global Eye Hospital</p><p>T: 
-							                 <a href="#" target="_blank" rel="noopener noreferrer">+91-9000133877</a> 
-							                  | M: <a href="#" target="_blank" rel="noopener noreferrer">+91 40-40204877</a><br> E: ceo@Admitworld.com
+						                   <strong>Admitworld Edu Consultants</strong>
+							               <br> MIG-36, Apple Homes, 1st Floor, Flat No:101 <br> Road No:1, Lane:5, Kphb Colony, Kukatpally<br>Hyderabad, Telangana, India-500072
+							               <br> Opp Lane - Global Eye Hospital.<br>
+							               M: 
+							                +91-9000133877
+							                  | Ph: +91 40-40204877<br> Email: ceo@admitworld.com
 						                 </p>
 					                  </div>
 					              </div>

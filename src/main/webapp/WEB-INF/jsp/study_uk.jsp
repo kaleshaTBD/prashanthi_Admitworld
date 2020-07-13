@@ -383,13 +383,12 @@ background-color:#e12d36  !important;
 						</div>
 						<div id="why-study-in" style="background-color:#e12d36 ">
 							<div class="container">
-								<h2 style="color:#fff">Why study in UK</h2>
+								<h2 style="color:#fff !important">Why study in UK</h2>
 								<div>
 						<p>
 							<strong>Quality British Education + World Renowned
 								Universities + Courses of Shorter Duration + English Speaking
-								Country + Networking Opportunities + 4 Months Additional Visa
-								after Course</strong>
+								Country + Networking Opportunities + 2 year's work permit</strong>
 						</p>
 						<p>So why select to study a British Education? When we ask
 							these questions, some interesting answers that we get include:</p>
@@ -458,7 +457,7 @@ background-color:#e12d36  !important;
 																	<li><a
 																	href="list_uk_university_colleges">List of Universities and Colleges in UK</a></li>
 																	<li><a
-																	href="uk_university_jan">UK University January 2020 Intake</a></li>
+																	href="uk_university_jan">UK University January 2021 Intake</a></li>
 															</ul>
 														</div>
 													</div>
@@ -531,8 +530,7 @@ background-color:#e12d36  !important;
 																<li><a
 																	href="common_que_faq_uk">Common Questions – FAQs – UK</a></li>
 																
-																<li><a
-																	href="glossary_of_terminology">Glossary of Terminology</a></li>
+															
 																
 															</ul>
 														</div>
@@ -576,7 +574,7 @@ background-color:#e12d36  !important;
 															id="menu1" class="tab-pane fade in active">
 																<p style="padding:15px">We are experts at what we do. Since 2019, with prior experience of 14 years we have
 																	helped 1000s of students (personally). As one of the
-																	leading overseas edu consultants in Hyderabad, the
+																	leading overseas education consultants in Hyderabad, the
 																	collective experience of our team of experts go beyond
 																	a 50 years. Many of us have studied abroad and know
 																	exactly what your requirements will be, what kind of
@@ -851,10 +849,10 @@ background-color:#e12d36  !important;
 													</div>
 													<div class="et_pb_blurb_container">
 														<h4 class="et_pb_module_header">
-															<span style="color: #fdc735">16+</span>
+															<span style="color: #fdc735">15+</span>
 														</h4>
 														<div class="et_pb_blurb_description">
-															<p>16+ years of experience in placing students
+															<p>15+ years of experience in placing students
 																worldwide</p>
 														</div>
 													</div>

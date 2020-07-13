@@ -552,16 +552,7 @@ color:#fff !important;
 										and thereafter worked for the three years after the course are
 										eligible to apply for a permanent residency in Canada</p>
 								</blockquote>
-								<div class="su-box su-box-style-default"
-									style="border:1px solid  #000000; border-radius: 5px">
-									<div class="su-box-title"
-										style="background-color: #333333; color: #FFFFFF; border-top-left-radius: 3px; border-top-right-radius: 3px;padding:10px">Vivek
-										Panjabi - Student Success</div>
-									<div class="su-box-content su-u-clearfix su-u-trim"
-										style="border-bottom-left-radius: 3px; border-bottom-right-radius: 3px;pading:15px;color:#000;padding:15px">Thanks
-										to AdmitWorld edu Consultants, I am at the University of
-										Toronto. Brilliant service!</div>
-								</div>
+							
 								<hr />
 								<h2>Study in Canada</h2>
 								<p>
@@ -615,7 +606,7 @@ color:#fff !important;
 															id="menu1" class="tab-pane fade in active">
 																<p style="padding:15px">We are experts at what we do. Since 2019, with prior experience of 14 years we have
 																	helped 1000s of students (personally). As one of the
-																	leading overseas edu consultants in Hyderabad, the
+																	leading overseas education consultants in Hyderabad, the
 																	collective experience of our team of experts go beyond
 																	a 50 years. Many of us have studied abroad and know
 																	exactly what your requirements will be, what kind of
@@ -901,10 +892,10 @@ I would say we can always expect a positive response.
 													</div>
 													<div class="et_pb_blurb_container">
 														<h4 class="et_pb_module_header">
-															<span style="color: #fdc735">16+</span>
+															<span style="color: #fdc735">15+</span>
 														</h4>
 														<div class="et_pb_blurb_description">
-															<p>16+ years of experience in placing students
+															<p>15+ years of experience in placing students
 																worldwide</p>
 														</div>
 													</div>
@@ -1041,9 +1032,7 @@ I would say we can always expect a positive response.
 																<li><a
 																	href="canada_scholarships">Canada
 																		Scholarships</a></li>
-																<li><a
-																	href="glossary_of_terminology">Glossary
-																		of Terminology</a></li>
+																
 															</ul>
 														</div>
 													</div>

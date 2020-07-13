@@ -311,14 +311,13 @@ background-color: ##0c4da2;
 													data-pagination="{&quot;id&quot;:&quot;2181&quot;,&quot;base_permalink&quot;:&quot;/work-with-us/?wpv_view_count=2181-TCPID560&amp;wpv_paged=WPV_PAGE_NUM&quot;,&quot;query&quot;:&quot;normal&quot;,&quot;type&quot;:&quot;disabled&quot;,&quot;effect&quot;:&quot;fade&quot;,&quot;duration&quot;:500,&quot;speed&quot;:5,&quot;pause_on_hover&quot;:&quot;disabled&quot;,&quot;stop_rollover&quot;:&quot;false&quot;,&quot;cache_pages&quot;:&quot;enabled&quot;,&quot;preload_images&quot;:&quot;enabled&quot;,&quot;preload_pages&quot;:&quot;enabled&quot;,&quot;preload_reach&quot;:1,&quot;spinner&quot;:&quot;builtin&quot;,&quot;spinner_image&quot;:&quot;https://Admitworld.com/wp-content/plugins/wp-views/embedded/res/img/ajax-loader.gif&quot;,&quot;callback_next&quot;:&quot;&quot;,&quot;manage_history&quot;:&quot;disabled&quot;,&quot;has_controls_in_form&quot;:&quot;disabled&quot;,&quot;infinite_tolerance&quot;:&quot;0&quot;,&quot;max_pages&quot;:0,&quot;page&quot;:1,&quot;loop&quot;:{&quot;type&quot;:&quot;&quot;,&quot;name&quot;:&quot;&quot;,&quot;data&quot;:[],&quot;id&quot;:0}}"
 													data-permalink="/work-with-us/?wpv_view_count=2181-TCPID560">
 													<ul class="job-openings-listing">
-														<li style="list-style-type: none;"><a href="#">Essay/ SOP Editor</a></li>
 														<li style="list-style-type: none;">
-														    <a href="#">
+														    <a href="assistant_counsellor_education_counsellor">
 														     Education Counsellor / Assistant Counsellor
 														     </a>
 														 </li>
 														<li style="list-style-type: none;">
-															<a href="#">
+															<a href="senior_education_counsellor_senior_counsellor">
 															    Senior Education Counsellor / Senior Counsellor
 															 </a>
 														</li>
@@ -347,10 +346,9 @@ background-color: ##0c4da2;
 												</h3>
 												<p>
 													If you are interested in working part time, you can write
-													to us at <a href="#" target="_blank"
-														rel="noopener noreferrer">ceo@Admitworld.com</a>. In the
-													SUBJECT of your email, please write &#8216; <strong>part
-														time AWEC</strong>&#8217;
+													to us at <b style="color:#206db5">ceo@admitworld.com</b>. In the
+													SUBJECT of your email, please write &#8216; <strong>Part
+														Time AWEC</strong>&#8217;
 												</p>
 												<p>&nbsp;</p>
 												<h3 id="internships:">
@@ -358,8 +356,7 @@ background-color: ##0c4da2;
 												</h3>
 												<p>
 													We encourage students to come and learn with us. There are
-													numerous opportunities available. You can write to us at <a
-														href="#">ceo@Admitworld.com</a>
+													numerous opportunities available. You can write to us at <b>ceo@admitworld.com</b>
 													or fill out our simple form below:
 												</p>
 											</div>
@@ -370,7 +367,7 @@ background-color: ##0c4da2;
 													class="frm_forms  with_frm_style frm_style_formidable-style"
 													id="frm_form_7_container">
 
-													 <form id="myForm" name="myForm">
+													<!--  <form id="myForm" name="myForm">
 									             <div class="form-group">
 												    <input type="text" class="form-control" id="name" placeholder="Name" name="name">
 												  </div>
@@ -410,7 +407,115 @@ background-color: ##0c4da2;
 												  <div class="form-group">
 												    <button  type="button" class="btn btn-info" onclick="submit1()" value="Register" id="button1" style="background-color:#000;color:#fff;border:#fff;">Register</button>
 												  </div>
-								          </form>
+								          </form> -->
+
+
+
+													<form id="myworkForm" name="myworkForm">
+														<div class="frm_form_fields ">
+															
+																	<div id="frm_field_85_container"
+																		class="frm_form_field form-field  frm_required_field frm_none_container">
+																		<label for="field_av4d5" class="frm_primary_label">Name
+																			<span class="frm_required">*</span>
+																		</label> <input type="text" id="workname"
+																			name="workname" value="" placeholder="Name"
+																			data-reqmsg="This field cannot be blank."
+																			aria-required="true" data-invmsg="Text is invalid">
+																	</div>
+																	<div id="frm_field_86_container"
+																		class="frm_form_field form-field  frm_none_container">
+																		<label for="field_ic68v" class="frm_primary_label">Email
+																			<span class="frm_required"></span>
+																		</label> <input type="email" id="workemail"
+																			name="workemail" value="" placeholder="Email"
+																			data-invmsg="Email is invalid">
+																	</div>
+																	<div id="frm_field_87_container"
+																		class="frm_form_field form-field  frm_required_field frm_none_container">
+																		<label for="field_r29vu" class="frm_primary_label">Mobile
+																			Number <span class="frm_required">*</span>
+																		</label> <input type="tel" id="worknumber"
+																			name="worknumber" value=""
+																			placeholder="Mobile Number"
+																			data-reqmsg="This field cannot be blank."
+																			aria-required="true" data-invmsg="Phone is invalid"
+																			pattern="([0-9+-]{10,15})$">
+																	</div>
+																	<div id="frm_field_88_container"
+																		class="frm_form_field form-field  frm_none_container vertical_radio">
+																		<label for="field_2rgzh" class="frm_primary_label">Radio
+																			Button <span class="frm_required"></span>
+																		</label>
+																		<div class="frm_opt_container">
+																			<div class="frm_radio" id="frm_radio_88-0">
+																				<label for="field_2rgzh-0"> <input
+																					type="radio" name="workstudy"
+																					id="workstudy" value="Studying"
+																					data-invmsg="Radio Button is invalid">
+																					Studying
+																				</label>
+																			</div>
+																			<div class="frm_radio" id="frm_radio_88-1">
+																				<label for="field_2rgzh-1"> <input
+																					type="radio" name="workworking"
+																					id="workworking" value="Working"
+																					data-invmsg="Radio Button is invalid">
+																					Working
+																				</label>
+																			</div>
+																		</div>
+																	</div>
+																	<div id="frm_field_89_container"
+																		class="frm_form_field form-field  frm_none_container">
+																		<label for="field_uzx8e" class="frm_primary_label">College
+																			(last College you studied in) <span
+																			class="frm_required"></span>
+																		</label> <input type="text" id="workcollege"
+																			name="workcollege" value=""
+																			placeholder="College Name"
+																			data-invmsg="Text is invalid">
+																	</div>
+																	<div id="frm_field_91_container"
+																		class="frm_form_field form-field  frm_none_container">
+																		<label for="field_eh9ax" class="frm_primary_label">Course
+																			(last / current degree course) <span
+																			class="frm_required"></span>
+																		</label> <input type="text" id="workcourse"
+																			name="workcourse" value=""
+																			placeholder="Highest qualification or current course you are studying"
+																			data-invmsg="Text is invalid">
+																	</div>
+																	<div id="frm_field_92_container"
+																		class="frm_form_field form-field  frm_none_container">
+																		<label for="field_ekas0" class="frm_primary_label">Year
+																			of graduation or when you will graduate <span
+																			class="frm_required"></span>
+																		</label> <input type="number" id="workyear"
+																			name="workyear" value=""
+																			placeholder="Year of graduation or when you will graduate"
+																			data-invmsg="Number is invalid (year should be in YYYY format)"
+																			min="1985" max="2025" step="1">
+																	</div>
+																	<div id="frm_field_93_container"
+																		class="frm_form_field form-field  frm_required_field frm_none_container">
+																		<label for="field_wso4x" class="frm_primary_label">Any
+																			message for us? <span class="frm_required">*</span>
+																		</label>
+																		<textarea name="workmessage" id="workmessage"
+																			rows="5"
+																			placeholder="Show us your enthusiasm - write any message that you have for us :)"
+																			data-reqmsg="This field cannot be blank."
+																			aria-required="true"
+																			data-invmsg="Any message for us?  is invalid"></textarea>
+																	</div>
+																
+																	<div>
+												    <button  type="button" class="btn btn-info" onclick="submit1()" value="Register" id="button1" style="background-color:#000;color:#fff;border:#fff;">Register</button>
+																	</div>
+																
+														</div>
+													</form>
 
 												</div>
 											</div>
@@ -438,21 +543,21 @@ background-color: ##0c4da2;
 	    });
 	    function submit1()
 	    {         
-            var a=$("#name").val();
-            var a1=$("#emial").val();
-            var a2=$("#mobile").val();
-            var a3=$("#city").val();
-            var a4=$("#interest_country").val();
-            var a5=$("#past_degree").val();
-            var a6=$("#exam1").val();
-            var a7=$("#exam2").val();
-            var a8=$("#message").val();
+            var a=$("#workname").val();
+            var a1=$("#workemail").val();
+            var a2=$("#worknumber").val();
+            var a3=$("#workstudy").val();
+            var a4=$("#workworking").val();
+            var a5=$("#workcollege").val();
+            var a6=$("#workcourse").val();
+            var a7=$("#workyear").val();
+            var a8=$("#workmessage").val();
             if(a=="" || a1==""||a2==""||a3==""||a4==""||a5==""||a6==""||a7==""||a8=="")
                 {
                 alert("Please Provide All the Details...");
                 return false;
                 }		  
-	    var $form = $("#myForm");
+	    var $form = $("#myworkForm");
 	    var unindexed_array = $form.serializeArray();
 	    var indexed_array = {};
 	    $.map(unindexed_array, function(n, i){
@@ -465,7 +570,7 @@ background-color: ##0c4da2;
 	    console.log(b);
 
 	    $.ajax({
-	    	url : "register",
+	    	url : "workregister",
 	    	type: 'POST',
 	    	data: b,
 	    	contentType: 'application/json; charset=utf-8',

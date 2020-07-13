@@ -1,4 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
+f<%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
@@ -74,7 +74,10 @@
  background-color:#0c4da2;
  color:#fff;
 }
- 
+ #header-style-01
+ {
+ margin-top:-13px !important;
+ }
  </style>
 </head>
 <body onLoad="noBack();" oncontextmenu="return false" onpageshow="if (event.persisted) noBack();" onUnload="">
@@ -779,7 +782,7 @@
 													                    <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseseven" aria-expanded="false"
 													                      aria-controls="collapseseven">
 													                        <i class="more-less glyphicon glyphicon-plus"></i>
-													                     PTE in Mumbai (PTE Coaching for students):
+													                     PTE in Hyderabad (PTE Coaching for students):
 													                    </a>
 													                </h4>
 													            </div>

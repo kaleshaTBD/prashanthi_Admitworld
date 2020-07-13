@@ -382,7 +382,7 @@ color:#e12d36 !important;
 {
 color:#e12d36 !important;
 }
-h1, h2, h3, h4, h5, h6
+h1, h2, h3, h4, h6
 {
 color:#e12d36 !important;
 }
@@ -462,9 +462,8 @@ color:#07a8f5;
 							about your employment, education, and achievements. Generally, we
 							recommend that your resume / CV should be should only be of one
 							page. Here is where you can get a simple explanation on what can
-							appear on a <a
-								href="https://www.linkedin.com/pulse/create-best-resume-14-simple-bitter-sour-rules-vishal-badani">SMART</a>
-							RESUME. Include your work experience, educational qualifications,
+							appear on a<b> SMART
+							RESUME</b>. Include your work experience, educational qualifications,
 							project details (if any), internship information, list of
 							extra-curricular activities, your interests and any other
 							information that you believe will help you stand out of the lot.
@@ -564,9 +563,9 @@ color:#07a8f5;
 							requirements. In case of a courier, you will need to attest these
 							(by notary, gazetted officer, or by school or college)</p>
 						<p>
-							If you are planning to study Masters or MBA in UK then please <a
+							If you are planning to study Masters or MBA in UK then please <b><a
 								href="contact_us" target="_blank"
-								rel="noopener noreferrer">contact us</a> to get the admission
+								rel="noopener noreferrer">contact us</a></b> to get the admission
 							counseling.
 						</p>
 					</div>
@@ -603,7 +602,7 @@ color:#07a8f5;
 															id="menu1" class="tab-pane fade in active">
 																<p style="padding:15px">We are experts at what we do. Since 2019, with prior experience of 14 years we have
 																	helped 1000s of students (personally). As one of the
-																	leading overseas edu consultants in Hyderabad, the
+																	leading overseas education consultants in Hyderabad, the
 																	collective experience of our team of experts go beyond
 																	a 50 years. Many of us have studied abroad and know
 																	exactly what your requirements will be, what kind of
@@ -678,7 +677,7 @@ color:#07a8f5;
 														                </div>
 														            </div>
 														        </div>
-														        <div id="carousel-example" class="carousel slide hidden-xs" data-ride="carousel">
+														      <div id="carousel-example" class="carousel slide hidden-xs" data-ride="carousel">
 															            <!-- Wrapper for slides -->
 															            <div class="carousel-inner">
 															                <div class="item active">
@@ -686,20 +685,20 @@ color:#07a8f5;
 															                        <div class="col-sm-6">
 															                            <div class="col-item">
 															                              <div class="photo head-bg">
-															                                   <h5 style="padding:3px;color:#fff">Sakshi Babaria</h5>
+															                                   <h5 style="padding:3px;color:#fff">Swathi Thota</h5>
 															                                </div>
 															                                <div class="info">
 															                                    <div class="row">
-															                                        <div class="price col-md-4">
+															                                        <div class="price col-md-2">
 															                                         </div>
-															                                        <div class="col=-md-8">
-															                                          <div class="wof-to-label wof-label" style="text-align:center">From</div>
-																											<div class="wof-from" style="padding:10px;text-align:center;margin-bottom:1px">Mithibai College of Arts, Chauhan Institute Science & Amrutben Jivanlal College of Commerce & Economics</div>
-																											<div class="wof-to-label wof-label" style="text-align:center">To</div>
-																											<div class="wof-university"  style="text-align:center">Florida International University</div>
-																											<div class="wof-course"  style="text-align:center">Bachelors in Mass communication</div>
-																											<div class="wof-other-offers"  style="text-align:center"><span>Other Universities Offers</span> Auburn University and Kansas University</div>
-															                                        </div>
+																		                              <div class="col-md-10">
+																										<div class="wof-from">Good consultants for
+																											overseas education. They would guide you through the
+																											entire process. From scratch till you get your visa
+																											everything is been taken care by them. I got my UK
+																											student visa approved in a very short time of period
+																											Special thanks to Santhosh Sir and AWEC team</div>
+																									</div>
 															                                     </div>
 															                                 </div>
 															                            </div>
@@ -707,20 +706,19 @@ color:#07a8f5;
 															                        <div class="col-sm-6">
 															                          <div class="col-item">
 															                              <div class="photo head-bg">
-															                                   <h5 style="padding:3px;color:#fff">Vaideya Chavan</h5>
+															                                   <h5 style="padding:3px;color:#fff">Sanjay Sanju</h5>
 															                                </div>
 															                                <div class="info">
 															                                    <div class="row">
-															                                        <div class="price col-md-4">
+															                                        <div class="price col-md-2">
 															                                         </div>
-															                                        <div class="col=-md-8">
-															                                          <div class="wof-to-label wof-label" style="text-align:center">From</div>
-																											<div class="wof-from" style="padding:10px;text-align:center;margin-bottom:1px">Thakur College of Engineering and Technology</div>
-																											<div class="wof-to-label wof-label" style="text-align:center">To</div>
-																											<div class="wof-university"  style="text-align:center">University of Southern California</div>
-																											<div class="wof-course"  style="text-align:center">Masters in Mechanical Engineering</div>
-																											<div class="wof-other-offers"  style="text-align:center"><span>Other Universities Offers</span> University of Illinois Chicago, Umass Lowell, Colorado State University</div>
-															                                        </div>
+																		                             <div class="col-md-10">
+																											<div class="wof-from">I had a brilliant experience
+																												in my UK Student Visa through AWEC. They helped me a
+																												lot through the entire process and their guidance
+																												towards the process is good… Thank you Santhosh sir &
+																												AWEC team</div>
+																										</div>
 															                                     </div>
 															                                 </div>
 															                            </div>
@@ -733,20 +731,19 @@ color:#07a8f5;
 															                        <div class="col-sm-6">
 															                             <div class="col-item">
 																                              <div class="photo head-bg">
-																                                   <h5 style="padding:3px;color:#fff">Advait Kapadia</h5>
+																                                   <h5 style="padding:3px;color:#fff">Vishwas Katta</h5>
 																                                </div>
 																                                <div class="info">
 																                                    <div class="row">
-																                                        <div class="price col-md-4">
+																                                        <div class="price col-md-2">
 																                                         </div>
-																                                        <div class="col=-md-8">
-																                                          <div class="wof-to-label wof-label" style="text-align:center">From</div>
-																												<div class="wof-from" style="padding:10px;text-align:center;margin-bottom:1px">Jamnabai Narsee Monjee School</div>
-																												<div class="wof-to-label wof-label" style="text-align:center">To</div>
-																												<div class="wof-university"  style="text-align:center">University of British Columbia</div>
-																												<div class="wof-course"  style="text-align:center">Bachelors in Life Sciences</div>
-																												<div class="wof-other-offers"  style="text-align:center"><span>other Universities Offers</span> University of Toronto</div>
-																                                        </div>
+																                                       <div class="col-md-10">
+																											<div class="wof-from">I got my visa quickly and I
+																												really appreciate all their efforts. They have helped
+																												me out every step of the way! The staff is very
+																												friendly. Thank you Santhosh sir and the whole team for
+																												assisting me throughout the Visa process</div>
+																										</div>
 																                                     </div>
 																                                 </div>
 															                            </div>
@@ -754,20 +751,20 @@ color:#07a8f5;
 															                        <div class="col-sm-6">
 															                            <div class="col-item">
 																                              <div class="photo head-bg">
-																                                   <h5 style="padding:3px;color:#fff">Murtaza Retiwala</h5>
+																                                   <h5 style="padding:3px;color:#fff">Swetha Reddy Bandla</h5>
 																                                </div>
 																                                <div class="info">
 																                                    <div class="row">
-																                                        <div class="price col-md-4">
+																                                        <div class="price col-md-2">
 																                                         </div>
-																                                        <div class="col=-md-8">
-																                                          <div class="wof-to-label wof-label" style="text-align:center">From</div>
-																												<div class="wof-from" style="padding:10px;text-align:center;margin-bottom:1px">U P G College of Arts, Science and Commerce</div>
-																												<div class="wof-to-label wof-label" style="text-align:center">To</div>
-																												<div class="wof-university"  style="text-align:center">National College Ireland</div>
-																												<div class="wof-course"  style="text-align:center">MSc Marketing</div>
-																												<div class="wof-other-offers"  style="text-align:center"><span>Other Universities Offers</span> Dublin Business Scholl</div>
-																                                        </div>
+																                                      <div class="col-md-10">
+																											<div class="wof-from">One of the best consultants
+																												in Hyderabad I suggest Admitworld for students who
+																												planning for their abroad education. Thank you
+																												Admitworld for supporting me and guiding me for the
+																												right things moreover finally they helped me lot in
+																												getting my UK student visa.</div>
+																										</div>
 																                                     </div>
 																                                 </div>
 															                              </div>
@@ -776,7 +773,7 @@ color:#07a8f5;
 															                     
 															                    </div>
 															                </div>
-															                <div class=col-md-12" style="text-align:center">
+															                <div class="col-md-12" style="text-align:center">
 															                  <a class="btn btn-primary" href="wall_of_frame">View all</a>
 															                </div>
 															            </div>
@@ -880,10 +877,10 @@ color:#07a8f5;
 													</div>
 													<div class="et_pb_blurb_container">
 														<h4 class="et_pb_module_header">
-															<span style="color: #fdc735">16+</span>
+															<span style="color: #fdc735">15+</span>
 														</h4>
 														<div class="et_pb_blurb_description">
-															<p>16+ years of experience in placing students
+															<p>15+ years of experience in placing students
 																worldwide</p>
 														</div>
 													</div>
@@ -935,7 +932,7 @@ color:#07a8f5;
 																	<li><a
 																	href="list_uk_university_colleges">List of Universities and Colleges in UK</a></li>
 																	<li><a
-																	href="uk_university_jan">UK University January 2020 Intake</a></li>
+																	href="uk_university_jan">UK University January 2021 Intake</a></li>
 															</ul>
 														</div>
 													</div>
@@ -1008,8 +1005,7 @@ color:#07a8f5;
 																<li><a
 																	href="common_que_faq_uk">Common Questions – FAQs – UK</a></li>
 																
-																<li><a
-																	href="glossary_of_terminology">Glossary of Terminology</a></li>
+																
 																
 															</ul>
 														</div>

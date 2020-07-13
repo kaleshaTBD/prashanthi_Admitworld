@@ -286,10 +286,14 @@ div#hero-right-column-career-testing {
 	background-color: #fff;
 }
 
-body#country-usa h2, body#country-usa h3, body#country-usa h4, body#country-usa h5,
+ body#country-usa h3, body#country-usa h4, body#country-usa h5,
 	body#country-usa .global-stats .et-pb-icon, body#country-usa p#breadcrumbs a
 	{
 	color: #002868;
+}
+h2
+{
+color:#fff !important;
 }
 .credentials-section-heading p:after, .wof-wrapper .section-heading p:after, #how-can-we-help-eop h2:after {
     content: ""!important;
@@ -305,6 +309,10 @@ body#country-usa h2, body#country-usa h3, body#country-usa h4, body#country-usa 
 {
 
 color:#002868;
+}
+.box-style-01 h2
+{
+color:#000 !important;
 }
 </style>
 </head>
@@ -363,7 +371,7 @@ color:#002868;
 							should have no problem justifying why you want to study abroad in
 							USA!</p>
 						<h2>Here are some reasons that we believe are important:</h2>
-						<h3>Top Study Abroad Destination:</h3>
+						<h3 style="color:#fff">Top Study Abroad Destination:</h3>
 						<p>
 							<strong> </strong>USA is one of the most prestigious, top ranked
 							higher education systems in the world. There are over 750000
@@ -373,7 +381,7 @@ color:#002868;
 							more Indians studying there than any other country in the
 							world—you&#8217;ll feel at home away from home!
 						</p>
-						<h3>Land of Opportunities:</h3>
+						<h3 style="color:#fff">Land of Opportunities:</h3>
 						<p>United States has the largest consumer markets in the
 							world. Evidently, talented people who have proven their record
 							through good education will have great opportunities. USA has the
@@ -384,7 +392,7 @@ color:#002868;
 						<p>USA has over 4000 Institutions. Whether you wish to study
 							Bachelors, Masters, an MBA or a Certificate program, USA offers
 							you quality education at all levels to make you market ready.</p>
-						<h3>Flexibility in Education:</h3>
+						<h3 style="color:#fff">Flexibility in Education:</h3>
 						<p>You could do a double major. You could select IT with a
 							Psychology minor. Or you could study Liberal Arts in the US. You
 							could change your study major mid-way. Or even select it while
@@ -394,7 +402,7 @@ color:#002868;
 							propel your career. Education in USA offers you exceptional
 							flexibility to ensure that you do well in the future and combine
 							your future work and passion to make a great career.</p>
-						<h3>Technology, Research, Teaching, Training:</h3>
+						<h3 style="color:#fff">Technology, Research, Teaching, Training:</h3>
 						<p>US is at the forefront of technological innovations.
 							Research and techniques are one of the most powerful in the US.
 							Even if your program is not directly involved with science and
@@ -402,7 +410,7 @@ color:#002868;
 							tech. Additionally, international students are the most valued
 							researchers in the United States. Research opportunities in the
 							US is arguably the highest in the world.</p>
-						<h3>Scholarships in USA:</h3>
+						<h3 style="color:#fff">Scholarships in USA:</h3>
 						<p>Ask anyone and you will find that USA is the most generous
 							in offering scholarships. Various kinds of financial aid are
 							available. We have had students with complete fee waivers. Many
@@ -413,7 +421,7 @@ color:#002868;
 						<p>
 							There are too many reasons to study in America. We can keep going
 							on about it. Please  <a href="contact_us"
-								target="_blank" rel="noopener noreferrer" style="color:#ccc"> contact us</a> in
+								target="_blank" rel="noopener noreferrer" style="color:#fff"> contact us</a> in
 							case you are planning to study in USA!
 						</p>
 						<p>&nbsp;</p>
@@ -502,7 +510,7 @@ color:#002868;
 																	href="tests_required_to_apply_to_usa">Tests
 																		Required to Apply to USA</a></li>
 																<li><a
-																	href="admission_process_for_usa">Admission
+																	href="admission_process_for-usa">Admission
 																		Process for USA</a></li>
 																<li><a
 																	href="application_requirements_documents_usa">Application
@@ -580,7 +588,7 @@ color:#002868;
 									</div>
 								</div>
 								<div id="how-can-we-help-eop">
-									<h2 style="color:#c00026">USA Admission Counseling</h2>
+									<h2 style="color:#000 !important">USA Admission Counseling</h2>
 									In case you&#8217;re confused about your studies in USA, we can help
 									you solve the problem. Once we meet you, and your parents or
 									spouse, we ask you questions to get a clearer idea of your
@@ -898,10 +906,10 @@ color:#002868;
 													</div>
 													<div class="et_pb_blurb_container">
 														<h4 class="et_pb_module_header">
-															<span style="color: #fdc735">16+</span>
+															<span style="color: #fdc735">15+</span>
 														</h4>
 														<div class="et_pb_blurb_description">
-															<p>16+ years of experience in placing students
+															<p>15+ years of experience in placing students
 																worldwide</p>
 														</div>
 													</div>

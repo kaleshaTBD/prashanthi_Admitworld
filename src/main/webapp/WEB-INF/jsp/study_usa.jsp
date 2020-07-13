@@ -460,7 +460,7 @@ body#country-usa h2, body#country-usa h3, body#country-usa h4, body#country-usa 
 																	href="tests_required_to_apply_to_usa">Tests
 																		Required to Apply to USA</a></li>
 																<li><a
-																	href="admission_process_for_usa">Admission
+																	href="admission_process_for-usa">Admission
 																		Process for USA</a></li>
 																<li><a
 																	href="application_requirements_documents_usa">Application
@@ -570,7 +570,7 @@ body#country-usa h2, body#country-usa h3, body#country-usa h4, body#country-usa 
 															id="menu1" class="tab-pane fade in active">
 																<p style="padding:15px">We are experts at what we do. Since 2019, with prior experience of 14 years we have
 																	helped 1000s of students (personally). As one of the
-																	leading overseas edu consultants in Hyderabad, the
+																	leading overseas education consultants in Hyderabad, the
 																	collective experience of our team of experts go beyond
 																	a 50 years. Many of us have studied abroad and know
 																	exactly what your requirements will be, what kind of
@@ -856,10 +856,10 @@ body#country-usa h2, body#country-usa h3, body#country-usa h4, body#country-usa 
 													</div>
 													<div class="et_pb_blurb_container">
 														<h4 class="et_pb_module_header">
-															<span style="color: #fdc735">16+</span>
+															<span style="color: #fdc735">15+</span>
 														</h4>
 														<div class="et_pb_blurb_description">
-															<p>16+ years of experience in placing students
+															<p>15+ years of experience in placing students
 																worldwide</p>
 														</div>
 													</div>

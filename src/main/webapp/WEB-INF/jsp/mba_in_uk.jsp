@@ -382,7 +382,7 @@ color:#e12d36 !important;
 {
 color:#e12d36 !important;
 }
-h1, h2, h3, h4, h5, h6
+h1, h2, h3, h4, h6
 {
 color:#e12d36 !important;
 }
@@ -452,7 +452,7 @@ color:#fff !important;
 										Contrary to the popular belief that all MBA programmes require
 										work experience, international students can study an <a
 											href="mba_without_work_experience_uk"
-											target="_blank" rel="noopener noreferrer">MBA without work
+											target="_blank" rel="noopener noreferrer" style="color:#087cd6"">MBA without work
 											experience in the UK</a>.
 									</p>
 									<div class="su-box su-box-style-default"
@@ -487,14 +487,14 @@ color:#fff !important;
 											directly study an MBA in UK as soon as you finish your Bachelors
 											in India</li>
 										<li><strong>Duration of MBA in UK</strong>: MBA in UK is of
-											1 year duration in general at nearly all UK Universities. Only a
+											1 -2 year's duration in general at nearly all UK Universities. Only a
 											few MBA program  are longer eg. London Business MBA allows you
 											an exit point between 15 and 21 months or the Manchester
 											Business School MBA is 18 months long</li>
 										<li><strong>Intakes</strong>: Most MBA programs in UK will
-											begin in September each year. Some UK MBAs also begin in January
+											begin in September each year. Some UK MBAs also begin in January and May
 											but these are very limited. Best time to start the MBA in UK is
-											recommended to be in September</li>
+											recommended to be in September/January</li>
 										<li><strong>Cost of Studying MBA in UK</strong>: Course fee
 											for MBA in UK ranges between GBP 10000 to GBP 41000 for the full
 											MBA program  (typically ranging from Rs. 10 lacs to Rs 41 lacs).
@@ -551,12 +551,10 @@ color:#fff !important;
 											and full-time (40 hours per week) during holidays. Generally,
 											MBA courses are rigorous, we suggest study well</li>
 										<li><strong>Post-study Work After Study in the UK</strong>:
-											You could stay back for 4 months to find jobs in UK after you
-											have finished your course within the stipulated duration as
-											mentioned on your Confirmation of Acceptance Studies (CAS). If
-											you secure a job offer of or over GBP 20800 annually, you can
-											apply for a Tier 2 visa that allows you an extension to work in
-											the UK for 3 years</li>
+											You will be able to stay back in UK for two years to find
+							jobs in UK after you have finished your course.IF you secure a
+							job offer of or ever GBP 25600 annually,You can apply for a Tier 2
+							visa that allows you an extension to work in the UK for 3 years</li>
 									</ol>
 									<p>&nbsp;</p>
 									<h2 id="list-of-nearly-all-uk-mba-prog">UK MBA programme list
@@ -1354,9 +1352,8 @@ color:#fff !important;
 										about your employment, education, and achievements. Generally, we
 										recommend that your resume / CV should be should only be of one
 										page. Here is where you can get a simple explanation on what can
-										appear on a <a
-											href="https://www.linkedin.com/pulse/create-best-resume-14-simple-bitter-sour-rules-vishal-badani">smart
-											resume</a>
+										appear on a smart
+											resume
 									</p>
 									<h4 id="letter-of-recommendation">Letter of Recommendation</h4>
 									<p>A recommendation letter that highlight candidates’
@@ -1528,7 +1525,7 @@ color:#fff !important;
 															id="menu1" class="tab-pane fade in active">
 																<p style="padding:15px">We are experts at what we do. Since 2019,with prior experience of 14 years we have
 																	helped 1000s of students (personally). As one of the
-																	leading overseas edu consultants in Hyderabad, the
+																	leading overseas education consultants in Hyderabad, the
 																	collective experience of our team of experts go beyond
 																	a 50 years. Many of us have studied abroad and know
 																	exactly what your requirements will be, what kind of
@@ -1803,10 +1800,10 @@ color:#fff !important;
 													</div>
 													<div class="et_pb_blurb_container">
 														<h4 class="et_pb_module_header">
-															<span style="color: #fdc735">16+</span>
+															<span style="color: #fdc735">15+</span>
 														</h4>
 														<div class="et_pb_blurb_description">
-															<p>16+ years of experience in placing students
+															<p>15+ years of experience in placing students
 																worldwide</p>
 														</div>
 													</div>
@@ -1858,7 +1855,7 @@ color:#fff !important;
 																	<li><a
 																	href="list_uk_university_colleges">List of Universities and Colleges in UK</a></li>
 																	<li><a
-																	href="uk_university_jan">UK University January 2020 Intake</a></li>
+																	href="uk_university_jan">UK University January 2021 Intake</a></li>
 															</ul>
 														</div>
 													</div>
@@ -1931,8 +1928,7 @@ color:#fff !important;
 																<li><a
 																	href="common_que_faq_uk">Common Questions – FAQs – UK</a></li>
 																
-																<li><a
-																	href="glossary_of_terminology">Glossary of Terminology</a></li>
+																
 																
 															</ul>
 														</div>

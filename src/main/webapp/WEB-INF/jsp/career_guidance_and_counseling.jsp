@@ -10,7 +10,8 @@ div.et_pb_section.et_pb_section_0 {
 	background-position: top center;
 	background-image:
 		url(wp-content/uploads/2018/12/about-us-banner-e1544785770827.jpg)
-		!important
+		!important;
+		height:370px
 }
 
 .et_pb_blurb_6.et_pb_blurb {
@@ -1758,6 +1759,7 @@ div#events-news-tabs li.et_pb_tab_active::before {
 div#hero-right-column-career-testing {
 	background-color: white !important;
 	padding: 20px;
+	margin-top:140px;
 	box-shadow: 0px 2px 18px 0px rgba(0, 0, 0, 0.3)
 }
 

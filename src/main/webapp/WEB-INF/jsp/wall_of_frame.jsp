@@ -49,6 +49,10 @@ clear:both !important;
  background:linear-gradient(0deg, rgba(140, 133, 137, 0.3), rgba(31, 3, 20, 0.3)), url(wp-content/uploads/2020/01/about/test-banner.jpg);
   background-size:cover;
  }
+ .box h4
+ {
+ font-weight:bold;
+ }
 </style>
    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
 

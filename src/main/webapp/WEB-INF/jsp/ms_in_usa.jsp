@@ -350,7 +350,7 @@ color:#07a8f5;
 														year duration. Indian students should mostly prefer to study
 														a 2 years MS in US</li>
 													<li><strong>Intakes</strong>: Most MS programs in USA
-														will begin in Fall (August) and Spring (January) and summer(may)each year.
+														will begin in Fall (August), Spring (January) and Summer(May) each year.
 														While Spring (January) is also fairly big intake, students
 														must prefer the Fall (August) start</li>
 													<li><strong>Cost of Studying MS in US</strong>: Course
@@ -1509,9 +1509,8 @@ color:#07a8f5;
 										about your employment, education, and achievements. Generally,
 										we recommend that your resume / CV should be should only be of
 										one page. Here is where you can get a simple explanation on
-										what can appear on a <a
-											href="https://www.linkedin.com/pulse/create-best-resume-14-simple-bitter-sour-rules-vishal-badani">smart
-											resume</a>
+										what can appear on a <b>smart
+											resume</b>
 									</p>
 									<h4 style="color:#002868">Letter of Recommendation</h4>
 									<p>A recommendation letter that highlight candidates&#8217;
@@ -2006,10 +2005,10 @@ color:#07a8f5;
 																</div>
 																<div class="et_pb_blurb_container">
 																	<h4 class="et_pb_module_header">
-																		<span style="color: #fdc735">16+</span>
+																		<span style="color: #fdc735">15+</span>
 																	</h4>
 																	<div class="et_pb_blurb_description">
-																		<p>16+ years of experience in placing students
+																		<p>15+ years of experience in placing students
 																			worldwide</p>
 																	</div>
 																</div>

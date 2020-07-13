@@ -382,7 +382,7 @@ color:#e12d36 !important;
 {
 color:#e12d36 !important;
 }
-h1, h2, h3, h4, h5, h6
+h1, h2, h3, h4, h6
 {
 color:#e12d36 !important;
 }
@@ -482,8 +482,8 @@ color:#07a8f5;
 						<p>
 							<strong> BOOK TEST DATES</strong> for your <a
 								href="ielts" target="_blank">IELTS</a>
-							test. You can register with British Council or simply call us +1
-							820864001 (bet. 10am &amp; 7pm). If you are applying to a
+							test. You can register with British Council or simply call us 
+							 9000133877  (bet. 10am &amp; 7pm). If you are applying to a
 							University that needs <a href="gmat"
 								target="_blank">GMAT</a>, then book your <a
 								href="gmat" target="_blank">GMAT</a> test
@@ -626,7 +626,7 @@ color:#07a8f5;
 							to the current time)
 						</p>
 						<p>&nbsp;</p>
-						<h3>STEP :</h3>
+						<h3>STEP 9:</h3>
 						<p>
 							<strong> PAY</strong> the required deposit as required by the
 							University.
@@ -1291,7 +1291,7 @@ color:#07a8f5;
 															id="menu1" class="tab-pane fade in active">
 																<p style="padding:15px">We are experts at what we do. Since 2019, with prior experience of 14 years we have
 																	helped 1000s of students (personally). As one of the
-																	leading overseas edu consultants in Hyderabad, the
+																	leading overseas education consultants in Hyderabad, the
 																	collective experience of our team of experts go beyond
 																	a 50 years. Many of us have studied abroad and know
 																	exactly what your requirements will be, what kind of
@@ -1473,7 +1473,7 @@ color:#07a8f5;
 								<div class="et_pb_section et_pb_section_3 global-stats et_pb_section_parallax et_pb_with_background et_section_regular">
 									<div class="et_parallax_bg_wrap">
 										<div class="et_parallax_bg"
-											style="background-image:  url(wp-content/uploads/201/04/credentials-bg-homepage.jpg);">
+											style="background-image:  url(wp-content/uploads/2019/04/credentials-bg-homepage.jpg);">
 										</div>
 									</div>
 									<div class="et_pb_row et_pb_row_1">
@@ -1542,7 +1542,7 @@ color:#07a8f5;
 												<div class="et_pb_blurb_content">
 													<div class="et_pb_main_blurb_image">
 														<span class="et_pb_image_wrap"><span
-															class="et-waypoint et_pb_animation_off et-pb-icon"  style="color:#00A8E8;font-family: 'FontAwesome' !important;">fa-&#xf1d;</span></span>
+															class="et-waypoint et_pb_animation_off et-pb-icon"  style="color:#00A8E8;font-family: 'FontAwesome' !important;">fa-&#xf19d;</span></span>
 													</div>
 													<div class="et_pb_blurb_container">
 														<h4 class="et_pb_module_header">
@@ -1565,10 +1565,10 @@ color:#07a8f5;
 													</div>
 													<div class="et_pb_blurb_container">
 														<h4 class="et_pb_module_header">
-															<span style="color: #fdc735">16+</span>
+															<span style="color: #fdc735">15+</span>
 														</h4>
 														<div class="et_pb_blurb_description">
-															<p>16+ years of experience in placing students
+															<p>15+ years of experience in placing students
 																worldwide</p>
 														</div>
 													</div>
@@ -1620,7 +1620,7 @@ color:#07a8f5;
 																	<li><a
 																	href="list_uk_university_colleges">List of Universities and Colleges in UK</a></li>
 																	<li><a
-																	href="uk_university_jan">UK University January 2020 Intake</a></li>
+																	href="uk_university_jan">UK University January 2021 Intake</a></li>
 															</ul>
 														</div>
 													</div>
@@ -1693,8 +1693,6 @@ color:#07a8f5;
 																<li><a
 																	href="common_que_faq_uk">Common Questions – FAQs – UK</a></li>
 																
-																<li><a
-																	href="glossary_of_terminology">Glossary of Terminology</a></li>
 																
 															</ul>
 														</div>

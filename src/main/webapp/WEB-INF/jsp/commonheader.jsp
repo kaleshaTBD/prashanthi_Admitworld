@@ -1196,7 +1196,7 @@ padding-right: 4px;
 							</li>
 							<li id="menu-item-210"
 								class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1844"><a
-								href="#" data-ps2id-api="true">Study Abroad</a>
+								href="study_abroad" data-ps2id-api="true">Study Abroad</a>
 								<ul class="sub-menu">
 									<li id="menu-item-1867"
 										class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1867"><a

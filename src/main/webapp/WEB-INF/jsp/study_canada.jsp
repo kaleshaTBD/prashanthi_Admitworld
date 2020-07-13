@@ -386,7 +386,7 @@ background-color: #e01e2b !important;
 							alt="Study in USA" class="attachment-full">
 							<div id="hero-title" style="margin-top: -60.5px;">
 								<div class="container">
-									<h1>Universities and Colleges in Canada</h1>
+									<h1>Study In Canada </h1>
 										<div id="banner-overlay-text">
 										<a href="#" target="_blank"><i
 											class="fa fa-phone"></i> +91 9000133877</a> <a
@@ -559,9 +559,7 @@ background-color: #e01e2b !important;
 																<li><a
 																	href="canada_scholarships">Canada
 																		Scholarships</a></li>
-																<li><a
-																	href="glossary_of_terminology">Glossary
-																		of Terminology</a></li>
+																
 															</ul>
 														</div>
 													</div>
@@ -605,7 +603,7 @@ background-color: #e01e2b !important;
 																<p style="padding:15px">We are experts at what we do. Since 2019, with prior experience of 14 years
 																  we have
 																	helped 1000s of students (personally). As one of the
-																	leading overseas edu consultants in Hyderabad, the
+																	leading overseas education consultants in Hyderabad, the
 																	collective experience of our team of experts go beyond
 																	a 50 years. Many of us have studied abroad and know
 																	exactly what your requirements will be, what kind of
@@ -891,10 +889,10 @@ I would say we can always expect a positive response.
 													</div>
 													<div class="et_pb_blurb_container">
 														<h4 class="et_pb_module_header">
-															<span style="color: #fdc735">16+</span>
+															<span style="color: #fdc735">15+</span>
 														</h4>
 														<div class="et_pb_blurb_description">
-															<p>16+ years of experience in placing students
+															<p>15+ years of experience in placing students
 																worldwide</p>
 														</div>
 													</div>
